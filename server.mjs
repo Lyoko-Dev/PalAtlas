@@ -2,16 +2,7 @@ import { createServer } from "node:http";
 import { readFile } from "node:fs/promises";
 import { extname, join, normalize } from "node:path";
 import { fileURLToPath } from "node:url";
-
 const root = fileURLToPath(new URL(".", import.meta.url));
-const types = { ".html": "text/html; charset=utf-8", ".js": "text/javascript; charset=utf-8", ".css": "text/css; charset=utf-8", ".json": "application/json" };
-createServer(async (request, response) => {
-  try {
-    const relative = request.url === "/" ? "index.html" : request.url.slice(1).split("?")[0];
-    const file = normalize(join(root, relative));
-    if (!file.startsWith(root)) throw new Error("Invalid path");
-    response.writeHead(200, { "Content-Type": types[extname(file)] ?? "application/octet-stream" });
-    response.end(await readFile(file));
-  } catch { response.writeHead(404); response.end("Not found"); }
-}).listen(4173, () => console.log("PalAtlas disponible en http://localhost:4173"));
-
+const types = { ".html":"text/html; charset=utf-8", ".js":"text/javascript; charset=utf-8", ".css":"text/css; charset=utf-8", ".json":"application/json", ".csv":"text/csv; charset=utf-8", ".webmanifest":"application/manifest+json" };
+const sources = [{ source:"Pocketpair", title:"Noticias oficiales de Palworld", url:"https://www.pocketpair.jp/news/" }, { source:"Palworld EN", title:"Cuenta oficial en X", url:"https://x.com/Palworld_EN" }, { source:"Palworld JP", title:"Cuenta oficial en X (日本語)", url:"https://x.com/Palworld_JP" }];
+createServer(async (request, response) => { try { const url = new URL(request.url, "http://localhost"); if (url.pathname === "/api/news") { response.writeHead(200, { "Content-Type":"application/json; charset=utf-8", "Cache-Control":"no-store" }); response.end(JSON.stringify(sources.map((item) => ({ ...item, date:new Date().toISOString() })))); return; } const relative = url.pathname === "/" ? "index.html" : url.pathname.slice(1); const file = normalize(join(root, relative)); if (!file.startsWith(root)) throw new Error("Invalid path"); response.writeHead(200, { "Content-Type":types[extname(file)] ?? "application/octet-stream" }); response.end(await readFile(file)); } catch { response.writeHead(404); response.end("Not found"); } }).listen(4173, () => console.log("PalAtlas disponible en http://localhost:4173"));

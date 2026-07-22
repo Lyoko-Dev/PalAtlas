@@ -1,23 +1,18 @@
 # PalAtlas
 
-Multitool modular para Palworld, con una estética inspirada en sus colores naturales: cielo, mar, vegetación y acentos cálidos.
+PalAtlas es un compañero de viaje para tus partidas de Palworld.
 
-## Incluye
+Colecciona tus Pals, planifica tus cruces, prepara los materiales que necesitas y mantén tus objetivos a mano desde un único lugar.
 
-- Paldex con búsqueda y checklist guardada en el navegador.
-- Breeding lab con breeding power y análisis de pasivas heredables.
-- Catálogo de materiales y lugares donde encontrarlos.
-- Ruta de niveles y desbloqueos.
-- Fuentes oficiales de noticias y X/Twitter.
+## Qué encontrarás
 
-## Arranque
+- **Paldex:** descubre Pals, búscalos y marca los que ya tienes.
+- **Breeding lab:** explora resultados, pasivas y combinaciones para llegar al Pal que buscas.
+- **Materiales:** consulta recursos y calcula lo que necesitas para tus recetas.
+- **Progreso:** sigue tus próximos desbloqueos y guarda tu avance.
+- **Noticias:** accede a las novedades y canales oficiales de Palworld.
+- **Modo oscuro:** elige el ambiente que prefieras para tus sesiones largas.
 
-```text
-npm install
-npm start
-```
+PalAtlas está pensado para acompañarte mientras exploras, construyes y crías. Tu progreso se queda contigo en el navegador y puedes llevarlo contigo cuando cambies de dispositivo.
 
-Después abre `http://localhost:4173`.
-
-Los datos están en `src/data.js`. La herencia de pasivas es probabilística y admite hasta cuatro huecos; la app muestra el pool disponible, pero no promete una combinación garantizada.
-
+Visita la aplicación en [palatlas.lyokodev.com](https://palatlas.lyokodev.com).
