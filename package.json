@@ -1,11 +1,12 @@
 {
-  "name": "paltools",
-  "version": "0.1.0",
+  "name": "palatlas",
+  "version": "0.2.0",
   "private": true,
   "description": "Colección de herramientas de Lyoko Dev.",
   "type": "module",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "start": "node server.mjs"
   }
 }
 

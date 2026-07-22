@@ -1,0 +1,300 @@
+child_id,child_name,child_dex_no,combo_count,gender_specific_combo_count,has_gender_specific_combo
+64:0,Vanwyrm,064,1358,0,false
+65:0,Felbat,065,1271,0,false
+41:0,Azurobe,041,1201,0,false
+162:0,Valentail,162,894,0,false
+87:0,Mammorest,087,886,0,false
+113:0,Warsect,113,858,0,false
+178:0,Venusa,178,712,0,false
+36:0,Sweepa,036,692,0,false
+118:1,Shroomer Noct,118B,625,0,false
+180:0,Loomen,180,598,0,false
+151:0,Whalaska,151,585,0,false
+134:1,Wumpo Botan,134B,583,0,false
+123:0,Dazemu,123,574,0,false
+83:0,Fenglope,083,568,0,false
+118:0,Shroomer,118,522,0,false
+66:0,Vaelet,066,509,0,false
+128:0,Skutlass,128,496,0,false
+116:0,Sibelyx,116,494,0,false
+101:0,Reindrix,101,464,0,false
+94:0,Relaxaurus,094,455,0,false
+129:0,Reptyro,129,450,0,false
+79:0,Katress,079,443,0,false
+102:0,Mossanda,102,433,0,false
+107:0,Digtoise,107,411,0,false
+135:0,Sootseer,135,409,0,false
+134:0,Wumpo,134,403,0,false
+165:0,Lapiron,165,395,0,false
+167:0,Slowatt,167,389,0,false
+141:0,Prixter,141,387,0,false
+149:0,Smokie,149,386,0,false
+68:0,Elizabee,068,377,0,false
+91:0,Incineram,091,375,0,false
+117:0,Maraith,117,362,0,false
+98:0,Rayhound,098,354,0,false
+147:0,Prunelia,147,353,0,false
+112:0,Blazehowl,112,344,0,false
+115:0,Majex,115,337,0,false
+93:0,Pyrin,093,334,0,false
+59:0,Muffly,059,326,0,false
+143:0,Nyafia,143,323,0,false
+78:0,Wixen,078,319,0,false
+175:0,Ophydia,175,316,0,false
+56:0,Loupmoon,056,311,0,false
+57:0,Cawgnito,057,308,0,false
+148:0,Nitemary,148,305,0,false
+74:0,Gorirat,074,302,0,false
+82:0,Lunaris,082,300,0,false
+124:0,Quivern,124,300,0,false
+122:0,Suzaku,122,296,0,false
+181:0,Wistella,181,290,0,false
+174:0,Flaracle,174,286,0,false
+152:0,Verdash,152,284,0,false
+154:0,Gildane,154,282,0,false
+75:0,Surfent,075,281,0,false
+21:0,Kingpaca,021,276,0,false
+80:0,Helzephyr,080,275,0,false
+127:0,Yakumo,127,273,0,false
+43:1,Kelpsea Ignis,043B,271,0,false
+139:0,Anubis,139,267,0,false
+168:0,Bakemi,168,267,0,false
+111:0,Kitsun,111,266,0,false
+132:0,Cryolinx,132,263,0,false
+171:0,Eidrolon,171,263,0,false
+71:0,Tarantriss,071,263,0,false
+54:0,Univolt,054,263,0,false
+96:0,Beakon,096,261,0,false
+110:0,Braloha,110,258,0,false
+109:0,Dumud,109,255,0,false
+166:0,Hoodle,166,254,0,false
+121:0,Jormuntide,121,253,0,false
+47:0,Amione,047,252,0,false
+58:0,Arsox,058,247,0,false
+153:0,Splatterina,153,246,0,false
+89:0,Petallia,089,242,0,false
+67:0,Beegarde,067,239,0,false
+55:0,Gobfin,055,239,0,false
+172:0,Dynamoff,172,238,0,false
+160:0,Silvegis,160,234,0,false
+108:0,Broncherry,108,233,0,false
+49:0,Galeclaw,049,228,0,false
+37:0,Turtacle,037,221,0,false
+125:0,Lullu,125,220,0,false
+119:0,Icelyn,119,217,0,false
+140:0,Sekhmet,140,212,0,false
+84:0,Dinossom,084,210,0,false
+114:0,Frostplume,114,206,0,false
+170:0,Lapure,170,206,0,false
+70:0,Grintale,070,205,0,false
+81:0,Elgrove,081,203,0,false
+161:0,Azurmane,161,190,0,false
+130:0,Starryon,130,187,0,false
+48:0,Gloopie,048,184,0,false
+99:0,Menasting,099,181,0,false
+131:0,Pierdon,131,180,0,false
+50:0,Wispaw,050,180,0,false
+76:0,Robinquill,076,178,0,false
+2:0,Cattiva,002,175,0,false
+105:0,Moldron,105,174,0,false
+63:0,Elphidran,063,173,0,false
+126:0,Kikit,126,168,0,false
+52:0,Tombat,052,162,0,false
+34:0,Caprity,034,161,0,false
+33:0,Direhowl,033,154,0,false
+133:0,Snugloo,133,152,0,false
+92:0,Dazzi,092,150,0,false
+39:0,Woolipop,039,148,0,false
+85:0,Bushi,085,147,0,false
+32:0,Eikthyrdeer,032,145,0,false
+100:0,Needoll,100,145,0,false
+97:0,Ghangler,097,144,0,false
+35:0,Swee,035,140,0,false
+53:0,Tocotoco,053,140,0,false
+88:0,Finsider,088,139,0,false
+72:0,Polapup,072,134,0,false
+136:0,Carnibora,136,131,0,false
+45:0,Jelliette,045,131,0,false
+142:0,Tetroise,142,131,0,false
+163:0,Snock,163,127,0,false
+155:0,Dogen,155,124,0,false
+38:0,Hangyu,038,124,0,false
+184:0,Aegidron,184,121,0,false
+90:0,Leafan,090,120,0,false
+179:0,Mycora,179,120,0,false
+137:0,Blazamut,137,117,0,false
+169:0,Solmora,169,116,0,false
+159:0,Knocklem,159,115,0,false
+173:0,Tropicaw,173,114,0,false
+176:0,Dupin,176,113,0,false
+95:0,Foxcicle,095,113,0,false
+46:0,Jellroy,046,112,0,false
+177:0,Roujay,177,111,0,false
+164:0,Souffline,164,111,0,false
+9:0,Croajiro,009,110,0,false
+158:0,Astegon,158,108,0,false
+77:0,Flopie,077,108,0,false
+18:0,Penking,018,108,0,false
+61:0,Cinnamoth,061,106,0,false
+73:0,Leezpunk,073,106,0,false
+69:0,Lovander,069,106,0,false
+106:0,Palumba,106,104,0,false
+60:0,Bristla,060,101,0,false
+86:0,Munchill,086,101,0,false
+44:0,Ribbuny,044,101,0,false
+156:0,Bulldosu,156,97,0,false
+120:0,Gildra,120,96,0,false
+28:0,Rushoar,028,95,0,false
+150:0,Omascul,150,93,0,false
+7:0,Celaray,007,90,0,false
+104:0,Ragnahawk,104,89,0,false
+22:0,Daedream,022,86,0,false
+10:0,Herbil,010,86,0,false
+103:0,Chillet,103,82,0,false
+40:0,Mozzarina,040,79,0,false
+138:0,Dualith,138,78,0,false
+62:0,Puffolt,062,78,0,false
+19:0,Hoocrates,019,77,0,false
+43:0,Kelpsea,043,77,0,false
+17:0,Pengullet,017,71,0,false
+182:0,Solenne,182,65,0,false
+29:0,Foxparks,029,60,0,false
+23:0,Tanzee,023,60,0,false
+51:0,Nitewing,051,59,0,false
+24:0,Nox,024,55,0,false
+4:0,Lifmunk,004,53,0,false
+25:0,Flambelle,025,50,0,false
+20:0,Melpaca,020,48,0,false
+27:0,Mau,027,47,0,false
+5:0,Fuack,005,44,0,false
+30:0,Killamari,030,43,0,false
+31:0,Fuddler,031,41,0,false
+16:0,Depresso,016,38,0,false
+11:0,Teafant,011,38,0,false
+3:0,Chikipi,003,34,0,false
+26:0,Rooby,026,33,0,false
+8:0,Cremis,008,31,0,false
+1:0,Lamball,001,29,0,false
+13:0,Pupperai,013,27,0,false
+12:0,Gumoss,012,25,0,false
+14:0,Clovee,014,23,0,false
+183:0,Renjishi,183,23,0,false
+42:0,Sparkit,042,19,0,false
+15:0,Jolthog,015,17,0,false
+10008:0,Rainbow Slime,-,17,0,false
+6:0,Vixy,006,14,0,false
+10002:0,Eye of Cthulhu,-,11,0,false
+10003:0,Demon Eye,-,10,0,false
+10010:0,Enchanted Sword,-,8,0,false
+10006:0,Illuminant Slime,-,5,0,false
+10007:0,Purple Slime,-,5,0,false
+10012:0,Illuminant Bat,-,4,0,false
+41:1,Azurobe Cryst,041B,2,0,false
+96:1,Beakon Cryst,096B,2,0,false
+195:0,Bellanoir,195,2,0,false
+112:1,Blazehowl Noct,112B,2,0,false
+10005:0,Blue Slime,-,2,0,false
+108:1,Broncherry Aqua,108B,2,0,false
+85:1,Bushi Noct,085B,2,0,false
+34:1,Caprity Noct,034B,2,0,false
+7:1,Celaray Lux,007B,2,0,false
+157:0,Celesdir,157,2,0,false
+157:1,Celesdir Noct,157B,2,0,false
+103:1,Chillet Ignis,103B,2,0,false
+9:1,Croajiro Noct,009B,2,0,false
+132:1,Cryolinx Terra,132B,2,0,false
+92:1,Dazzi Noct,092B,2,0,false
+84:1,Dinossom Lux,084B,2,0,false
+138:1,Dualith Noct,138B,2,0,false
+109:1,Dumud Gild,109B,2,0,false
+171:1,Eidrolon Ignis,171B,2,0,false
+32:1,Eikthyrdeer Terra,032B,2,0,false
+81:1,Elgrove Cryst,081B,2,0,false
+63:1,Elphidran Aqua,063B,2,0,false
+188:1,Faleris Aqua,188B,2,0,false
+83:1,Fenglope Lux,083B,2,0,false
+88:1,Finsider Ignis,088B,2,0,false
+29:1,Foxparks Cryst,029B,2,0,false
+200:1,Frostallion Noct,200B,2,0,false
+5:1,Fuack Ignis,005B,2,0,false
+97:1,Ghangler Ignis,097B,2,0,false
+48:1,Gloopie Primo,048B,2,0,false
+55:1,Gobfin Ignis,055B,2,0,false
+74:1,Gorirat Terra,074B,2,0,false
+38:1,Hangyu Cryst,038B,2,0,false
+80:1,Helzephyr Lux,080B,2,0,false
+91:1,Incineram Noct,091B,2,0,false
+15:1,Jolthog Cryst,015B,2,0,false
+121:1,Jormuntide Ignis,121B,2,0,false
+79:1,Katress Ignis,079B,2,1,true
+30:1,Killamari Primo,030B,2,0,false
+21:1,Kingpaca Cryst,021B,2,0,false
+111:1,Kitsun Noct,111B,2,0,false
+159:1,Knocklem Ignis,159B,2,0,false
+73:1,Leezpunk Ignis,073B,2,0,false
+56:1,Loupmoon Cryst,056B,2,0,false
+186:1,Lyleen Noct,186B,2,0,false
+87:1,Mammorest Cryst,087B,2,0,false
+27:1,Mau Cryst,027B,2,0,false
+99:1,Menasting Terra,099B,2,0,false
+105:1,Moldron Cryst,105B,2,0,false
+102:1,Mossanda Lux,102B,2,0,false
+100:1,Needoll Noct,100B,2,0,false
+148:1,Nitemary Botan,148B,2,0,false
+203:0,Panthalus,203,2,0,false
+17:1,Pengullet Lux,017B,2,0,false
+18:1,Penking Lux,018B,2,0,false
+89:1,Petallia Ignis,089B,2,0,false
+131:1,Pierdon Cryst,131B,2,0,false
+72:1,Polapup Terra,072B,2,0,false
+141:1,Prixter Lux,141B,2,0,false
+93:1,Pyrin Noct,093B,2,0,false
+124:1,Quivern Botan,124B,2,0,false
+98:1,Rayhound Cryst,098B,2,0,false
+10009:0,Red Slime,-,2,0,false
+94:1,Relaxaurus Lux,094B,2,0,false
+129:1,Reptyro Cryst,129B,2,0,false
+44:1,Ribbuny Botan,044B,2,0,false
+76:1,Robinquill Terra,076B,2,0,false
+116:1,Sibelyx Primo,116B,2,0,false
+128:1,Skutlass Ignis,128B,2,0,false
+149:1,Smokie Cryst,149B,2,0,false
+163:1,Snock Lux,163B,2,0,false
+169:1,Solmora Lux,169B,2,0,false
+130:1,Starryon Primo,130B,2,0,false
+75:1,Surfent Terra,075B,2,0,false
+122:1,Suzaku Aqua,122B,2,0,false
+23:1,Tanzee Ignis,023B,2,0,false
+142:1,Tetroise Primo,142B,2,0,false
+37:1,Turtacle Terra,037B,2,0,false
+54:1,Univolt Cryst,054B,2,0,false
+64:1,Vanwyrm Cryst,064B,2,0,false
+113:1,Warsect Terra,113B,2,0,false
+151:1,Whalaska Ignis,151B,2,0,false
+78:1,Wixen Noct,078B,2,1,true
+39:1,Woolipop Terra,039B,2,0,false
+204:0,Astralym,204,1,0,false
+191:0,Bastigor,191,1,0,false
+195:1,Bellanoir Libero,195B,1,0,false
+137:1,Blazamut Ryu,137B,1,0,false
+10011:0,Cave Bat,-,1,0,false
+194:0,Dandilord,194,1,0,false
+188:0,Faleris,188,1,0,false
+200:0,Frostallion,200,1,0,false
+10004:0,Green Slime,-,1,0,false
+185:0,Grizzbolt,185,1,0,false
+197:0,Hartalis,197,1,0,false
+202:0,Jetragon,202,1,0,false
+186:0,Lyleen,186,1,0,false
+144:0,Mimog,144,1,0,false
+199:0,Necromus,199,1,0,false
+201:0,Neptilius,201,1,0,false
+187:0,Orserk,187,1,0,false
+198:0,Paladius,198,1,0,false
+190:0,Selyne,190,1,0,false
+189:0,Shadowbeak,189,1,0,false
+192:0,Shaolong,192,1,0,false
+193:0,Silvance,193,1,0,false
+146:0,Xenogard,146,1,0,false
+196:0,Xenolord,196,1,0,false
+145:0,Xenovader,145,1,0,false

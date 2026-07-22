@@ -1,0 +1,11 @@
+{
+  "name": "PalAtlas",
+  "short_name": "PalAtlas",
+  "description": "Multitool de Palworld para coleccionar, criar y preparar recursos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f3",
+  "theme_color": "#174955",
+  "icons": []
+}
+
