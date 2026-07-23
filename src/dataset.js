@@ -14,30 +14,23 @@ function parseCsv(text) {
   return values.map((valuesRow) => Object.fromEntries(headers.map((header, index) => [header, valuesRow[index] ?? ""])));
 }
 
-export function catalogFromSummary(csv, baseCatalog = pals) {
+export function catalogFromSummary(csv, baseCatalog = pals, details = []) {
   const known = new Map(baseCatalog.map((pal) => [pal.name.toLowerCase(), pal]));
+  const enriched = new Map(details.map((pal) => [String(pal.name).toLowerCase(), pal]));
   return parseCsv(csv).map((row) => {
+    const detail = enriched.get(row.child_name.toLowerCase()) || {};
     const base = known.get(row.child_name.toLowerCase());
-    if (base) return { ...base, comboCount: Number(row.combo_count) || 0, rarity: base.rarity || (Number(row.combo_count) > 1000 ? "Común" : "Especial") };
-    return {
-      id: row.child_id.replace(":", "-"), name: row.child_name, number: Number.parseInt(row.child_dex_no, 10) || null,
-      types: [], breedingPower: null, habitat: "Desconocido", passives: [], comboCount: Number(row.combo_count) || 0
-    };
+    return { ...base, ...detail, id: base?.id || row.child_id.replace(":", "-"), name: row.child_name, number: Number.parseInt(row.child_dex_no, 10) || detail.number || null, types: detail.types || base?.types || [], breedingPower: base?.breedingPower || null, habitat: base?.habitat || "Desconocido", passives: base?.passives || [], comboCount: Number(row.combo_count) || 0 };
   });
 }
+
 export function breedingCombosFromCsv(csv) { return parseCsv(csv); }
 
 export async function loadVersionedDataset(baseUrl = "/data/") {
-  const [summaryResponse, combosResponse] = await Promise.all([
-    fetch(`${baseUrl}children_summary.csv`), fetch(`${baseUrl}breeding_combos.csv`)
+  const [summaryResponse, combosResponse, detailsResponse] = await Promise.all([
+    fetch(`${baseUrl}children_summary.csv`), fetch(`${baseUrl}breeding_combos.csv`), fetch(`${baseUrl}pal_details.json`)
   ]);
-  if (!summaryResponse.ok || !combosResponse.ok) throw new Error("No se pudo cargar el dataset de Palworld");
-  const [summary, combos] = await Promise.all([summaryResponse.text(), combosResponse.text()]);
-  return { pals: catalogFromSummary(summary), combos: breedingCombosFromCsv(combos), source: "Palworld Breeding Reference · snapshot 2026-07-16" };
+  if (!summaryResponse.ok || !combosResponse.ok || !detailsResponse.ok) throw new Error("No se pudo cargar el dataset local de PalAtlas");
+  const [summary, combos, details] = await Promise.all([summaryResponse.text(), combosResponse.text(), detailsResponse.json()]);
+  return { pals: catalogFromSummary(summary, pals, details), combos: breedingCombosFromCsv(combos), source: "PalAtlas local dataset" };
 }
-
-
-
-
-
-

@@ -1,0 +1,4155 @@
+[
+  {
+    "id": "184-0",
+    "name": "Aegidron",
+    "number": 184,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Tierra"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_DomeArmorDragon_icon_normal.png"
+  },
+  {
+    "id": "47-0",
+    "name": "Amione",
+    "number": 47,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_ClioneTwins_icon_normal.png"
+  },
+  {
+    "id": "139-0",
+    "name": "Anubis",
+    "number": 139,
+    "rarity": "Épico",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_Anubis_icon_normal.png"
+  },
+  {
+    "id": "58-0",
+    "name": "Arsox",
+    "number": 58,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Desforestación"
+    ],
+    "imageFile": "T_FlameBuffalo_icon_normal.png"
+  },
+  {
+    "id": "158-0",
+    "name": "Astegon",
+    "number": 158,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería"
+    ],
+    "imageFile": "T_BlackMetalDragon_icon_normal.png"
+  },
+  {
+    "id": "204-0",
+    "name": "Astralym",
+    "number": 204,
+    "rarity": "Épico",
+    "types": [],
+    "workSuitability": null,
+    "imageFile": "T_WorldTreeDragon_icon_normal.png"
+  },
+  {
+    "id": "161-0",
+    "name": "Azurmane",
+    "number": 161,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": "Generación de Electricidad",
+    "imageFile": "T_BlueThunderHorse_icon_normal.png"
+  },
+  {
+    "id": "41-0",
+    "name": "Azurobe",
+    "number": 41,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Dragón"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_BlueDragon_icon_normal.png"
+  },
+  {
+    "id": "41-1",
+    "name": "Azurobe Cryst",
+    "number": 41,
+    "rarity": "Épico",
+    "types": [
+      "Hielo",
+      "Dragón"
+    ],
+    "workSuitability": "Refrigeración",
+    "imageFile": "T_BlueDragon_Ice_icon_normal.png"
+  },
+  {
+    "id": "168-0",
+    "name": "Bakemi",
+    "number": 168,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_OniGhostGirl_icon_normal.png"
+  },
+  {
+    "id": "191-0",
+    "name": "Bastigor",
+    "number": 191,
+    "rarity": "Épico",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería",
+      "Refrigeración"
+    ],
+    "imageFile": "T_SnowTigerBeastman_icon_normal.png"
+  },
+  {
+    "id": "96-0",
+    "name": "Beakon",
+    "number": 96,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_ThunderBird_icon_normal.png"
+  },
+  {
+    "id": "96-1",
+    "name": "Beakon Cryst",
+    "number": 96,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_ThunderBird_Ice_icon_normal.png"
+  },
+  {
+    "id": "67-0",
+    "name": "Beegarde",
+    "number": 67,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_SoldierBee_icon_normal.png"
+  },
+  {
+    "id": "195-0",
+    "name": "Bellanoir",
+    "number": 195,
+    "rarity": "Legendario",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_NightLady_icon_normal.png"
+  },
+  {
+    "id": "195-1",
+    "name": "Bellanoir Libero",
+    "number": 195,
+    "rarity": "Legendario",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_NightLady_Dark_icon_normal.png"
+  },
+  {
+    "id": "137-0",
+    "name": "Blazamut",
+    "number": 137,
+    "rarity": "Épico",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Minería"
+    ],
+    "imageFile": "T_KingBahamut_icon_normal.png"
+  },
+  {
+    "id": "137-1",
+    "name": "Blazamut Ryu",
+    "number": 137,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Minería"
+    ],
+    "imageFile": "T_KingBahamut_Dragon_icon_normal.png"
+  },
+  {
+    "id": "112-0",
+    "name": "Blazehowl",
+    "number": 112,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Desforestación"
+    ],
+    "imageFile": "T_Manticore_icon_normal.png"
+  },
+  {
+    "id": "112-1",
+    "name": "Blazehowl Noct",
+    "number": 112,
+    "rarity": "Épico",
+    "types": [
+      "Fuego",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Desforestación"
+    ],
+    "imageFile": "T_Manticore_Dark_icon_normal.png"
+  },
+  {
+    "id": "110-0",
+    "name": "Braloha",
+    "number": 110,
+    "rarity": "Épico",
+    "types": [
+      "Hoja",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Minería"
+    ],
+    "imageFile": "T_Plesiosaur_icon_normal.png"
+  },
+  {
+    "id": "60-0",
+    "name": "Bristla",
+    "number": 60,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_LittleBriarRose_icon_normal.png"
+  },
+  {
+    "id": "108-0",
+    "name": "Broncherry",
+    "number": 108,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": "Siembra",
+    "imageFile": "T_SakuraSaurus_icon_normal.png"
+  },
+  {
+    "id": "108-1",
+    "name": "Broncherry Aqua",
+    "number": 108,
+    "rarity": "Épico",
+    "types": [
+      "Hoja",
+      "Agua"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_SakuraSaurus_Water_icon_normal.png"
+  },
+  {
+    "id": "156-0",
+    "name": "Bulldosu",
+    "number": 156,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_SumoDog_icon_normal.png"
+  },
+  {
+    "id": "85-0",
+    "name": "Bushi",
+    "number": 85,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_Ronin_icon_normal.png"
+  },
+  {
+    "id": "85-1",
+    "name": "Bushi Noct",
+    "number": 85,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_Ronin_Dark_icon_normal.png"
+  },
+  {
+    "id": "34-0",
+    "name": "Caprity",
+    "number": 34,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Agricultura"
+    ],
+    "imageFile": "T_BerryGoat_icon_normal.png"
+  },
+  {
+    "id": "34-1",
+    "name": "Caprity Noct",
+    "number": 34,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Agricultura"
+    ],
+    "imageFile": "T_BerryGoat_Dark_icon_normal.png"
+  },
+  {
+    "id": "136-0",
+    "name": "Carnibora",
+    "number": 136,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_VenusFlytrap_icon_normal.png"
+  },
+  {
+    "id": "2-0",
+    "name": "Cattiva",
+    "number": 2,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_PinkCat_icon_normal.png"
+  },
+  {
+    "id": "57-0",
+    "name": "Cawgnito",
+    "number": 57,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Agricultura"
+    ],
+    "imageFile": "T_DarkCrow_icon_normal.png"
+  },
+  {
+    "id": "7-0",
+    "name": "Celaray",
+    "number": 7,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_FlyingManta_icon_normal.png"
+  },
+  {
+    "id": "7-1",
+    "name": "Celaray Lux",
+    "number": 7,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Generación de Electricidad",
+      "Transporte"
+    ],
+    "imageFile": "T_FlyingManta_Thunder_icon_normal.png"
+  },
+  {
+    "id": "157-0",
+    "name": "Celesdir",
+    "number": 157,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Desforestación"
+    ],
+    "imageFile": "T_WhiteDeer_icon_normal.png"
+  },
+  {
+    "id": "157-1",
+    "name": "Celesdir Noct",
+    "number": 157,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Desforestación"
+    ],
+    "imageFile": "T_WhiteDeer_Dark_icon_normal.png"
+  },
+  {
+    "id": "3-0",
+    "name": "Chikipi",
+    "number": 3,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Agricultura"
+    ],
+    "imageFile": "T_ChickenPal_icon_normal.png"
+  },
+  {
+    "id": "103-0",
+    "name": "Chillet",
+    "number": 103,
+    "rarity": "Común",
+    "types": [
+      "Hielo",
+      "Dragón"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración"
+    ],
+    "imageFile": "T_WeaselDragon_icon_normal.png"
+  },
+  {
+    "id": "103-1",
+    "name": "Chillet Ignis",
+    "number": 103,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Dragón"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Recolección"
+    ],
+    "imageFile": "T_WeaselDragon_Fire_icon_normal.png"
+  },
+  {
+    "id": "61-0",
+    "name": "Cinnamoth",
+    "number": 61,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_CuteButterfly_icon_normal.png"
+  },
+  {
+    "id": "14-0",
+    "name": "Clovee",
+    "number": 14,
+    "rarity": "Común",
+    "types": [
+      "Hoja",
+      "Normal"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección"
+    ],
+    "imageFile": "T_CloverFairy_icon_normal.png"
+  },
+  {
+    "id": "8-0",
+    "name": "Cremis",
+    "number": 8,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Agricultura"
+    ],
+    "imageFile": "T_WoolFox_icon_normal.png"
+  },
+  {
+    "id": "9-0",
+    "name": "Croajiro",
+    "number": 9,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_KendoFrog_icon_normal.png"
+  },
+  {
+    "id": "9-1",
+    "name": "Croajiro Noct",
+    "number": 9,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_KendoFrog_Dark_icon_normal.png"
+  },
+  {
+    "id": "132-0",
+    "name": "Cryolinx",
+    "number": 132,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Desforestación",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_WhiteTiger_icon_normal.png"
+  },
+  {
+    "id": "132-1",
+    "name": "Cryolinx Terra",
+    "number": 132,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Desforestación",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_WhiteTiger_Ground_icon_normal.png"
+  },
+  {
+    "id": "22-0",
+    "name": "Daedream",
+    "number": 22,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_DreamDemon_icon_normal.png"
+  },
+  {
+    "id": "194-0",
+    "name": "Dandilord",
+    "number": 194,
+    "rarity": "Épico",
+    "types": [
+      "Hoja",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_FlowerPrince_icon_normal.png"
+  },
+  {
+    "id": "123-0",
+    "name": "Dazemu",
+    "number": 123,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_FeatherOstrich_icon_normal.png"
+  },
+  {
+    "id": "92-0",
+    "name": "Dazzi",
+    "number": 92,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_RaijinDaughter_icon_normal.png"
+  },
+  {
+    "id": "92-1",
+    "name": "Dazzi Noct",
+    "number": 92,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_RaijinDaughter_Water_icon_normal.png"
+  },
+  {
+    "id": "16-0",
+    "name": "Depresso",
+    "number": 16,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_NegativeKoala_icon_normal.png"
+  },
+  {
+    "id": "107-0",
+    "name": "Digtoise",
+    "number": 107,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_DrillGame_icon_normal.png"
+  },
+  {
+    "id": "84-0",
+    "name": "Dinossom",
+    "number": 84,
+    "rarity": "Raro",
+    "types": [
+      "Hoja",
+      "Dragón"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Desforestación"
+    ],
+    "imageFile": "T_FlowerDinosaur_icon_normal.png"
+  },
+  {
+    "id": "84-1",
+    "name": "Dinossom Lux",
+    "number": 84,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad",
+      "Dragón"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Desforestación"
+    ],
+    "imageFile": "T_FlowerDinosaur_Electric_icon_normal.png"
+  },
+  {
+    "id": "33-0",
+    "name": "Direhowl",
+    "number": 33,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_Garm_icon_normal.png"
+  },
+  {
+    "id": "155-0",
+    "name": "Dogen",
+    "number": 155,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_SifuDog_icon_normal.png"
+  },
+  {
+    "id": "138-0",
+    "name": "Dualith",
+    "number": 138,
+    "rarity": "Épico",
+    "types": [
+      "Tierra",
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Desforestación",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassGolem_icon_normal.png"
+  },
+  {
+    "id": "138-1",
+    "name": "Dualith Noct",
+    "number": 138,
+    "rarity": "Épico",
+    "types": [
+      "Tierra",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Desforestación",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassGolem_Dark_icon_normal.png"
+  },
+  {
+    "id": "109-0",
+    "name": "Dumud",
+    "number": 109,
+    "rarity": "Común",
+    "types": [
+      "Tierra",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Minería",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_LazyCatfish_icon_normal.png"
+  },
+  {
+    "id": "109-1",
+    "name": "Dumud Gild",
+    "number": 109,
+    "rarity": "Raro",
+    "types": [
+      "Tierra",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Minería",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_LazyCatfish_Gold_icon_normal.png"
+  },
+  {
+    "id": "176-0",
+    "name": "Dupin",
+    "number": 176,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_ClownRabbit_icon_normal.png"
+  },
+  {
+    "id": "172-0",
+    "name": "Dynamoff",
+    "number": 172,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_ThunderFluffyBird_icon_normal.png"
+  },
+  {
+    "id": "171-0",
+    "name": "Eidrolon",
+    "number": 171,
+    "rarity": "Raro",
+    "types": [
+      "Dragón",
+      "Oscuridad"
+    ],
+    "workSuitability": "Transporte",
+    "imageFile": "T_GhostDragon_icon_normal.png"
+  },
+  {
+    "id": "171-1",
+    "name": "Eidrolon Ignis",
+    "number": 171,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Transporte"
+    ],
+    "imageFile": "T_GhostDragon_Fire_icon_normal.png"
+  },
+  {
+    "id": "32-0",
+    "name": "Eikthyrdeer",
+    "number": 32,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Desforestación",
+    "imageFile": "T_Deer_icon_normal.png"
+  },
+  {
+    "id": "32-1",
+    "name": "Eikthyrdeer Terra",
+    "number": 32,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Desforestación",
+    "imageFile": "T_Deer_Ground_icon_normal.png"
+  },
+  {
+    "id": "81-0",
+    "name": "Elgrove",
+    "number": 81,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Desforestación",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassMinotaur_icon_normal.png"
+  },
+  {
+    "id": "81-1",
+    "name": "Elgrove Cryst",
+    "number": 81,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassMinotaur_Ice_icon_normal.png"
+  },
+  {
+    "id": "68-0",
+    "name": "Elizabee",
+    "number": 68,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_QueenBee_icon_normal.png"
+  },
+  {
+    "id": "63-0",
+    "name": "Elphidran",
+    "number": 63,
+    "rarity": "Raro",
+    "types": [
+      "Dragón"
+    ],
+    "workSuitability": "Desforestación",
+    "imageFile": "T_FairyDragon_icon_normal.png"
+  },
+  {
+    "id": "63-1",
+    "name": "Elphidran Aqua",
+    "number": 63,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Desforestación"
+    ],
+    "imageFile": "T_FairyDragon_Water_icon_normal.png"
+  },
+  {
+    "id": "188-0",
+    "name": "Faleris",
+    "number": 188,
+    "rarity": "Épico",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Transporte"
+    ],
+    "imageFile": "T_Horus_icon_normal.png"
+  },
+  {
+    "id": "188-1",
+    "name": "Faleris Aqua",
+    "number": 188,
+    "rarity": "Épico",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_Horus_Water_icon_normal.png"
+  },
+  {
+    "id": "65-0",
+    "name": "Felbat",
+    "number": 65,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Producción de Medicamentos",
+    "imageFile": "T_CatVampire_icon_normal.png"
+  },
+  {
+    "id": "83-0",
+    "name": "Fenglope",
+    "number": 83,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Desforestación",
+    "imageFile": "T_FengyunDeeper_icon_normal.png"
+  },
+  {
+    "id": "83-1",
+    "name": "Fenglope Lux",
+    "number": 83,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Desforestación"
+    ],
+    "imageFile": "T_FengyunDeeper_Electric_icon_normal.png"
+  },
+  {
+    "id": "88-0",
+    "name": "Finsider",
+    "number": 88,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_StuffedShark_icon_normal.png"
+  },
+  {
+    "id": "88-1",
+    "name": "Finsider Ignis",
+    "number": 88,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_StuffedShark_Fire_icon_normal.png"
+  },
+  {
+    "id": "25-0",
+    "name": "Flambelle",
+    "number": 25,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_LavaGirl_icon_normal.png"
+  },
+  {
+    "id": "174-0",
+    "name": "Flaracle",
+    "number": 174,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_FoxExorcist_icon_normal.png"
+  },
+  {
+    "id": "77-0",
+    "name": "Flopie",
+    "number": 77,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_FlowerRabbit_icon_normal.png"
+  },
+  {
+    "id": "95-0",
+    "name": "Foxcicle",
+    "number": 95,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Refrigeración",
+      "Agricultura"
+    ],
+    "imageFile": "T_IceFox_icon_normal.png"
+  },
+  {
+    "id": "29-0",
+    "name": "Foxparks",
+    "number": 29,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": "Encendido",
+    "imageFile": "T_Kitsunebi_icon_normal.png"
+  },
+  {
+    "id": "29-1",
+    "name": "Foxparks Cryst",
+    "number": 29,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": "Refrigeración",
+    "imageFile": "T_Kitsunebi_Ice_icon_normal.png"
+  },
+  {
+    "id": "200-0",
+    "name": "Frostallion",
+    "number": 200,
+    "rarity": "Legendario",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": "Refrigeración",
+    "imageFile": "T_IceHorse_icon_normal.png"
+  },
+  {
+    "id": "200-1",
+    "name": "Frostallion Noct",
+    "number": 200,
+    "rarity": "Legendario",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_IceHorse_Dark_icon_normal.png"
+  },
+  {
+    "id": "114-0",
+    "name": "Frostplume",
+    "number": 114,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración"
+    ],
+    "imageFile": "T_SnowPeafowl_icon_normal.png"
+  },
+  {
+    "id": "5-0",
+    "name": "Fuack",
+    "number": 5,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_BluePlatypus_icon_normal.png"
+  },
+  {
+    "id": "5-1",
+    "name": "Fuack Ignis",
+    "number": 5,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_BluePlatypus_Fire_icon_normal.png"
+  },
+  {
+    "id": "31-0",
+    "name": "Fuddler",
+    "number": 31,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_CuteMole_icon_normal.png"
+  },
+  {
+    "id": "49-0",
+    "name": "Galeclaw",
+    "number": 49,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_Eagle_icon_normal.png"
+  },
+  {
+    "id": "97-0",
+    "name": "Ghangler",
+    "number": 97,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_GhostAnglerfish_icon_normal.png"
+  },
+  {
+    "id": "97-1",
+    "name": "Ghangler Ignis",
+    "number": 97,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_GhostAnglerfish_Fire_icon_normal.png"
+  },
+  {
+    "id": "154-0",
+    "name": "Gildane",
+    "number": 154,
+    "rarity": "Épico",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_GoldenHorse_icon_normal.png"
+  },
+  {
+    "id": "120-0",
+    "name": "Gildra",
+    "number": 120,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_MummyPal_icon_normal.png"
+  },
+  {
+    "id": "48-0",
+    "name": "Gloopie",
+    "number": 48,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_OctopusGirl_icon_normal.png"
+  },
+  {
+    "id": "48-1",
+    "name": "Gloopie Primo",
+    "number": 48,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Normal"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_OctopusGirl_Neutral_icon_normal.png"
+  },
+  {
+    "id": "55-0",
+    "name": "Gobfin",
+    "number": 55,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_SharkKid_icon_normal.png"
+  },
+  {
+    "id": "55-1",
+    "name": "Gobfin Ignis",
+    "number": 55,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_SharkKid_Fire_icon_normal.png"
+  },
+  {
+    "id": "74-0",
+    "name": "Gorirat",
+    "number": 74,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_Gorilla_icon_normal.png"
+  },
+  {
+    "id": "74-1",
+    "name": "Gorirat Terra",
+    "number": 74,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_Gorilla_Ground_icon_normal.png"
+  },
+  {
+    "id": "70-0",
+    "name": "Grintale",
+    "number": 70,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_NaughtyCat_icon_normal.png"
+  },
+  {
+    "id": "185-0",
+    "name": "Grizzbolt",
+    "number": 185,
+    "rarity": "Épico",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_ElecPanda_icon_normal.png"
+  },
+  {
+    "id": "12-0",
+    "name": "Gumoss",
+    "number": 12,
+    "rarity": "Común",
+    "types": [
+      "Hoja",
+      "Tierra"
+    ],
+    "workSuitability": "Siembra",
+    "imageFile": "T_PlantSlime_icon_normal.png"
+  },
+  {
+    "id": "38-0",
+    "name": "Hangyu",
+    "number": 38,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_WindChimes_icon_normal.png"
+  },
+  {
+    "id": "38-1",
+    "name": "Hangyu Cryst",
+    "number": 38,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_WindChimes_Ice_icon_normal.png"
+  },
+  {
+    "id": "197-0",
+    "name": "Hartalis",
+    "number": 197,
+    "rarity": "Épico",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Desforestación"
+    ],
+    "imageFile": "T_LegendDeer_icon_normal.png"
+  },
+  {
+    "id": "80-0",
+    "name": "Helzephyr",
+    "number": 80,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Transporte",
+    "imageFile": "T_HadesBird_icon_normal.png"
+  },
+  {
+    "id": "80-1",
+    "name": "Helzephyr Lux",
+    "number": 80,
+    "rarity": "Épico",
+    "types": [
+      "Oscuridad",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Transporte"
+    ],
+    "imageFile": "T_HadesBird_Electric_icon_normal.png"
+  },
+  {
+    "id": "10-0",
+    "name": "Herbil",
+    "number": 10,
+    "rarity": "Común",
+    "types": [
+      "Hoja",
+      "Normal"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_LeafMomonga_icon_normal.png"
+  },
+  {
+    "id": "19-0",
+    "name": "Hoocrates",
+    "number": 19,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_WizardOwl_icon_normal.png"
+  },
+  {
+    "id": "166-0",
+    "name": "Hoodle",
+    "number": 166,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_HoodGhost_icon_normal.png"
+  },
+  {
+    "id": "119-0",
+    "name": "Icelyn",
+    "number": 119,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_IceWitch_icon_normal.png"
+  },
+  {
+    "id": "91-0",
+    "name": "Incineram",
+    "number": 91,
+    "rarity": "Común",
+    "types": [
+      "Fuego",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_Baphomet_icon_normal.png"
+  },
+  {
+    "id": "91-1",
+    "name": "Incineram Noct",
+    "number": 91,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_Baphomet_Dark_icon_normal.png"
+  },
+  {
+    "id": "45-0",
+    "name": "Jelliette",
+    "number": 45,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_JellyfishFairy_icon_normal.png"
+  },
+  {
+    "id": "46-0",
+    "name": "Jellroy",
+    "number": 46,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_JellyfishGhost_icon_normal.png"
+  },
+  {
+    "id": "202-0",
+    "name": "Jetragon",
+    "number": 202,
+    "rarity": "Legendario",
+    "types": [
+      "Dragón"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_JetDragon_icon_normal.png"
+  },
+  {
+    "id": "15-0",
+    "name": "Jolthog",
+    "number": 15,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": "Generación de Electricidad",
+    "imageFile": "T_Hedgehog_icon_normal.png"
+  },
+  {
+    "id": "15-1",
+    "name": "Jolthog Cryst",
+    "number": 15,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": "Refrigeración",
+    "imageFile": "T_Hedgehog_Ice_icon_normal.png"
+  },
+  {
+    "id": "121-0",
+    "name": "Jormuntide",
+    "number": 121,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Agua"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_Umihebi_icon_normal.png"
+  },
+  {
+    "id": "121-1",
+    "name": "Jormuntide Ignis",
+    "number": 121,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Fuego"
+    ],
+    "workSuitability": "Encendido",
+    "imageFile": "T_Umihebi_Fire_icon_normal.png"
+  },
+  {
+    "id": "79-0",
+    "name": "Katress",
+    "number": 79,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_CatMage_icon_normal.png"
+  },
+  {
+    "id": "79-1",
+    "name": "Katress Ignis",
+    "number": 79,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_CatMage_Fire_icon_normal.png"
+  },
+  {
+    "id": "43-0",
+    "name": "Kelpsea",
+    "number": 43,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Agricultura"
+    ],
+    "imageFile": "T_Kelpie_icon_normal.png"
+  },
+  {
+    "id": "43-1",
+    "name": "Kelpsea Ignis",
+    "number": 43,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Agricultura"
+    ],
+    "imageFile": "T_Kelpie_Fire_icon_normal.png"
+  },
+  {
+    "id": "126-0",
+    "name": "Kikit",
+    "number": 126,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_SmallArmadillo_icon_normal.png"
+  },
+  {
+    "id": "30-0",
+    "name": "Killamari",
+    "number": 30,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_NegativeOctopus_icon_normal.png"
+  },
+  {
+    "id": "30-1",
+    "name": "Killamari Primo",
+    "number": 30,
+    "rarity": "Común",
+    "types": [
+      "Normal",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_NegativeOctopus_Neutral_icon_normal.png"
+  },
+  {
+    "id": "21-0",
+    "name": "Kingpaca",
+    "number": 21,
+    "rarity": "Épico",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_KingAlpaca_icon_normal.png"
+  },
+  {
+    "id": "21-1",
+    "name": "Kingpaca Cryst",
+    "number": 21,
+    "rarity": "Épico",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración"
+    ],
+    "imageFile": "T_KingAlpaca_Ice_icon_normal.png"
+  },
+  {
+    "id": "111-0",
+    "name": "Kitsun",
+    "number": 111,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": "Encendido",
+    "imageFile": "T_AmaterasuWolf_icon_normal.png"
+  },
+  {
+    "id": "111-1",
+    "name": "Kitsun Noct",
+    "number": 111,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Encendido",
+    "imageFile": "T_AmaterasuWolf_Dark_icon_normal.png"
+  },
+  {
+    "id": "159-0",
+    "name": "Knocklem",
+    "number": 159,
+    "rarity": "Épico",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_WingGolem_icon_normal.png"
+  },
+  {
+    "id": "159-1",
+    "name": "Knocklem Ignis",
+    "number": 159,
+    "rarity": "Épico",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_WingGolem_Fire_icon_normal.png"
+  },
+  {
+    "id": "1-0",
+    "name": "Lamball",
+    "number": 1,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_SheepBall_icon_normal.png"
+  },
+  {
+    "id": "165-0",
+    "name": "Lapiron",
+    "number": 165,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_BrownRabbit_icon_normal.png"
+  },
+  {
+    "id": "170-0",
+    "name": "Lapure",
+    "number": 170,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección"
+    ],
+    "imageFile": "T_SleeveRabbit_icon_normal.png"
+  },
+  {
+    "id": "90-0",
+    "name": "Leafan",
+    "number": 90,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_PandaGirl_icon_normal.png"
+  },
+  {
+    "id": "73-0",
+    "name": "Leezpunk",
+    "number": 73,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_LizardMan_icon_normal.png"
+  },
+  {
+    "id": "73-1",
+    "name": "Leezpunk Ignis",
+    "number": 73,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_LizardMan_Fire_icon_normal.png"
+  },
+  {
+    "id": "4-0",
+    "name": "Lifmunk",
+    "number": 4,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_Carbunclo_icon_normal.png"
+  },
+  {
+    "id": "180-0",
+    "name": "Loomen",
+    "number": 180,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_LanternButler_icon_normal.png"
+  },
+  {
+    "id": "56-0",
+    "name": "Loupmoon",
+    "number": 56,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Trabajo Manual",
+    "imageFile": "T_Werewolf_icon_normal.png"
+  },
+  {
+    "id": "56-1",
+    "name": "Loupmoon Cryst",
+    "number": 56,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Refrigeración"
+    ],
+    "imageFile": "T_Werewolf_Ice_icon_normal.png"
+  },
+  {
+    "id": "69-0",
+    "name": "Lovander",
+    "number": 69,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_PinkLizard_icon_normal.png"
+  },
+  {
+    "id": "125-0",
+    "name": "Lullu",
+    "number": 125,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_LeafPrincess_icon_normal.png"
+  },
+  {
+    "id": "82-0",
+    "name": "Lunaris",
+    "number": 82,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_Mutant_icon_normal.png"
+  },
+  {
+    "id": "186-0",
+    "name": "Lyleen",
+    "number": 186,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_LilyQueen_icon_normal.png"
+  },
+  {
+    "id": "186-1",
+    "name": "Lyleen Noct",
+    "number": 186,
+    "rarity": "Épico",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_LilyQueen_Dark_icon_normal.png"
+  },
+  {
+    "id": "115-0",
+    "name": "Majex",
+    "number": 115,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_DarkFlameFox_icon_normal.png"
+  },
+  {
+    "id": "87-0",
+    "name": "Mammorest",
+    "number": 87,
+    "rarity": "Épico",
+    "types": [
+      "Hoja",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Desforestación",
+      "Minería"
+    ],
+    "imageFile": "T_GrassMammoth_icon_normal.png"
+  },
+  {
+    "id": "87-1",
+    "name": "Mammorest Cryst",
+    "number": 87,
+    "rarity": "Épico",
+    "types": [
+      "Hielo",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería",
+      "Refrigeración"
+    ],
+    "imageFile": "T_GrassMammoth_Ice_icon_normal.png"
+  },
+  {
+    "id": "117-0",
+    "name": "Maraith",
+    "number": 117,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Minería"
+    ],
+    "imageFile": "T_GhostBeast_icon_normal.png"
+  },
+  {
+    "id": "27-0",
+    "name": "Mau",
+    "number": 27,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Agricultura"
+    ],
+    "imageFile": "T_Bastet_icon_normal.png"
+  },
+  {
+    "id": "27-1",
+    "name": "Mau Cryst",
+    "number": 27,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Refrigeración",
+      "Agricultura"
+    ],
+    "imageFile": "T_Bastet_Ice_icon_normal.png"
+  },
+  {
+    "id": "20-0",
+    "name": "Melpaca",
+    "number": 20,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Agricultura",
+    "imageFile": "T_Alpaca_icon_normal.png"
+  },
+  {
+    "id": "99-0",
+    "name": "Menasting",
+    "number": 99,
+    "rarity": "Épico",
+    "types": [
+      "Oscuridad",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería"
+    ],
+    "imageFile": "T_DarkScorpion_icon_normal.png"
+  },
+  {
+    "id": "99-1",
+    "name": "Menasting Terra",
+    "number": 99,
+    "rarity": "Épico",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería"
+    ],
+    "imageFile": "T_DarkScorpion_Ground_icon_normal.png"
+  },
+  {
+    "id": "144-0",
+    "name": "Mimog",
+    "number": 144,
+    "rarity": "Raro",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_MimicDog_icon_normal.png"
+  },
+  {
+    "id": "105-0",
+    "name": "Moldron",
+    "number": 105,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Minería"
+    ],
+    "imageFile": "T_VolcanoDragon_icon_normal.png"
+  },
+  {
+    "id": "105-1",
+    "name": "Moldron Cryst",
+    "number": 105,
+    "rarity": "Épico",
+    "types": [
+      "Hielo",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Minería",
+      "Refrigeración"
+    ],
+    "imageFile": "T_VolcanoDragon_Ice_icon_normal.png"
+  },
+  {
+    "id": "102-0",
+    "name": "Mossanda",
+    "number": 102,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassPanda_icon_normal.png"
+  },
+  {
+    "id": "102-1",
+    "name": "Mossanda Lux",
+    "number": 102,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassPanda_Electric_icon_normal.png"
+  },
+  {
+    "id": "40-0",
+    "name": "Mozzarina",
+    "number": 40,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Agricultura",
+    "imageFile": "T_CowPal_icon_normal.png"
+  },
+  {
+    "id": "59-0",
+    "name": "Muffly",
+    "number": 59,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_FluffyBird_icon_normal.png"
+  },
+  {
+    "id": "86-0",
+    "name": "Munchill",
+    "number": 86,
+    "rarity": "Común",
+    "types": [
+      "Hielo",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_IceCrocodile_icon_normal.png"
+  },
+  {
+    "id": "179-0",
+    "name": "Mycora",
+    "number": 179,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_MushroomLady_icon_normal.png"
+  },
+  {
+    "id": "199-0",
+    "name": "Necromus",
+    "number": 199,
+    "rarity": "Legendario",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería"
+    ],
+    "imageFile": "T_BlackCentaur_icon_normal.png"
+  },
+  {
+    "id": "100-0",
+    "name": "Needoll",
+    "number": 100,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_CactusDoll_icon_normal.png"
+  },
+  {
+    "id": "100-1",
+    "name": "Needoll Noct",
+    "number": 100,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad",
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_CactusDoll_Dark_icon_normal.png"
+  },
+  {
+    "id": "201-0",
+    "name": "Neptilius",
+    "number": 201,
+    "rarity": "Legendario",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_PoseidonOrca_icon_normal.png"
+  },
+  {
+    "id": "148-0",
+    "name": "Nitemary",
+    "number": 148,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_GhostRabbit_icon_normal.png"
+  },
+  {
+    "id": "148-1",
+    "name": "Nitemary Botan",
+    "number": 148,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_GhostRabbit_Grass_icon_normal.png"
+  },
+  {
+    "id": "51-0",
+    "name": "Nitewing",
+    "number": 51,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_HawkBird_icon_normal.png"
+  },
+  {
+    "id": "24-0",
+    "name": "Nox",
+    "number": 24,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_NightFox_icon_normal.png"
+  },
+  {
+    "id": "143-0",
+    "name": "Nyafia",
+    "number": 143,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_BadCatgirl_icon_normal.png"
+  },
+  {
+    "id": "150-0",
+    "name": "Omascul",
+    "number": 150,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_MysteryMask_icon_normal.png"
+  },
+  {
+    "id": "175-0",
+    "name": "Ophydia",
+    "number": 175,
+    "rarity": "Épico",
+    "types": [
+      "Hoja",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Siembra"
+    ],
+    "imageFile": "T_LotusDragon_icon_normal.png"
+  },
+  {
+    "id": "187-0",
+    "name": "Orserk",
+    "number": 187,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_ThunderDragonMan_icon_normal.png"
+  },
+  {
+    "id": "198-0",
+    "name": "Paladius",
+    "number": 198,
+    "rarity": "Legendario",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Minería"
+    ],
+    "imageFile": "T_SaintCentaur_icon_normal.png"
+  },
+  {
+    "id": "106-0",
+    "name": "Palumba",
+    "number": 106,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección",
+      "Minería"
+    ],
+    "imageFile": "T_TropicalOstrich_icon_normal.png"
+  },
+  {
+    "id": "203-0",
+    "name": "Panthalus",
+    "number": 203,
+    "rarity": "Épico",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": null,
+    "imageFile": "T_KingWhale_icon_normal.png"
+  },
+  {
+    "id": "17-0",
+    "name": "Pengullet",
+    "number": 17,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_Penguin_icon_normal.png"
+  },
+  {
+    "id": "17-1",
+    "name": "Pengullet Lux",
+    "number": 17,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_Penguin_Electric_icon_normal.png"
+  },
+  {
+    "id": "18-0",
+    "name": "Penking",
+    "number": 18,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Trabajo Manual",
+      "Minería",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_CaptainPenguin_icon_normal.png"
+  },
+  {
+    "id": "18-1",
+    "name": "Penking Lux",
+    "number": 18,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_CaptainPenguin_Black_icon_normal.png"
+  },
+  {
+    "id": "89-0",
+    "name": "Petallia",
+    "number": 89,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_FlowerDoll_icon_normal.png"
+  },
+  {
+    "id": "89-1",
+    "name": "Petallia Ignis",
+    "number": 89,
+    "rarity": "Épico",
+    "types": [
+      "Hoja",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_FlowerDoll_Fire_icon_normal.png"
+  },
+  {
+    "id": "131-0",
+    "name": "Pierdon",
+    "number": 131,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_RockBeast_icon_normal.png"
+  },
+  {
+    "id": "131-1",
+    "name": "Pierdon Cryst",
+    "number": 131,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Minería",
+      "Refrigeración"
+    ],
+    "imageFile": "T_RockBeast_Ice_icon_normal.png"
+  },
+  {
+    "id": "72-0",
+    "name": "Polapup",
+    "number": 72,
+    "rarity": "Raro",
+    "types": [
+      "Hielo",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Refrigeración"
+    ],
+    "imageFile": "T_IceSeal_icon_normal.png"
+  },
+  {
+    "id": "72-1",
+    "name": "Polapup Terra",
+    "number": 72,
+    "rarity": "Raro",
+    "types": [
+      "Hielo",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Minería",
+      "Refrigeración"
+    ],
+    "imageFile": "T_IceSeal_Ground_icon_normal.png"
+  },
+  {
+    "id": "141-0",
+    "name": "Prixter",
+    "number": 141,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_ScorpionMan_icon_normal.png"
+  },
+  {
+    "id": "141-1",
+    "name": "Prixter Lux",
+    "number": 141,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos"
+    ],
+    "imageFile": "T_ScorpionMan_Electric_icon_normal.png"
+  },
+  {
+    "id": "147-0",
+    "name": "Prunelia",
+    "number": 147,
+    "rarity": "Raro",
+    "types": [
+      "Hoja",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_BlueberryFairy_icon_normal.png"
+  },
+  {
+    "id": "62-0",
+    "name": "Puffolt",
+    "number": 62,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Transporte"
+    ],
+    "imageFile": "T_ElecPomeranian_icon_normal.png"
+  },
+  {
+    "id": "13-0",
+    "name": "Pupperai",
+    "number": 13,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_SamuraiDog_icon_normal.png"
+  },
+  {
+    "id": "93-0",
+    "name": "Pyrin",
+    "number": 93,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Desforestación"
+    ],
+    "imageFile": "T_FireKirin_icon_normal.png"
+  },
+  {
+    "id": "93-1",
+    "name": "Pyrin Noct",
+    "number": 93,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Desforestación"
+    ],
+    "imageFile": "T_FireKirin_Dark_icon_normal.png"
+  },
+  {
+    "id": "124-0",
+    "name": "Quivern",
+    "number": 124,
+    "rarity": "Raro",
+    "types": [
+      "Dragón"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_SkyDragon_icon_normal.png"
+  },
+  {
+    "id": "124-1",
+    "name": "Quivern Botan",
+    "number": 124,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_SkyDragon_Grass_icon_normal.png"
+  },
+  {
+    "id": "104-0",
+    "name": "Ragnahawk",
+    "number": 104,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Transporte"
+    ],
+    "imageFile": "T_RedArmorBird_icon_normal.png"
+  },
+  {
+    "id": "98-0",
+    "name": "Rayhound",
+    "number": 98,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": "Generación de Electricidad",
+    "imageFile": "T_ThunderDog_icon_normal.png"
+  },
+  {
+    "id": "98-1",
+    "name": "Rayhound Cryst",
+    "number": 98,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": "Refrigeración",
+    "imageFile": "T_ThunderDog_Ice_icon_normal.png"
+  },
+  {
+    "id": "101-0",
+    "name": "Reindrix",
+    "number": 101,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Refrigeración"
+    ],
+    "imageFile": "T_IceDeer_icon_normal.png"
+  },
+  {
+    "id": "94-0",
+    "name": "Relaxaurus",
+    "number": 94,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Transporte"
+    ],
+    "imageFile": "T_LazyDragon_icon_normal.png"
+  },
+  {
+    "id": "94-1",
+    "name": "Relaxaurus Lux",
+    "number": 94,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Transporte"
+    ],
+    "imageFile": "T_LazyDragon_Electric_icon_normal.png"
+  },
+  {
+    "id": "183-0",
+    "name": "Renjishi",
+    "number": 183,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_KabukiMan_icon_normal.png"
+  },
+  {
+    "id": "129-0",
+    "name": "Reptyro",
+    "number": 129,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Minería"
+    ],
+    "imageFile": "T_VolcanicMonster_icon_normal.png"
+  },
+  {
+    "id": "129-1",
+    "name": "Reptyro Cryst",
+    "number": 129,
+    "rarity": "Raro",
+    "types": [
+      "Hielo",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Minería",
+      "Refrigeración"
+    ],
+    "imageFile": "T_VolcanicMonster_Ice_icon_normal.png"
+  },
+  {
+    "id": "44-0",
+    "name": "Ribbuny",
+    "number": 44,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_PinkRabbit_icon_normal.png"
+  },
+  {
+    "id": "44-1",
+    "name": "Ribbuny Botan",
+    "number": 44,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_PinkRabbit_Grass_icon_normal.png"
+  },
+  {
+    "id": "76-0",
+    "name": "Robinquill",
+    "number": 76,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_RobinHood_icon_normal.png"
+  },
+  {
+    "id": "76-1",
+    "name": "Robinquill Terra",
+    "number": 76,
+    "rarity": "Raro",
+    "types": [
+      "Hoja",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_RobinHood_Ground_icon_normal.png"
+  },
+  {
+    "id": "26-0",
+    "name": "Rooby",
+    "number": 26,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Agricultura"
+    ],
+    "imageFile": "T_FlameBambi_icon_normal.png"
+  },
+  {
+    "id": "177-0",
+    "name": "Roujay",
+    "number": 177,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_ThiefBird_icon_normal.png"
+  },
+  {
+    "id": "28-0",
+    "name": "Rushoar",
+    "number": 28,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_Boar_icon_normal.png"
+  },
+  {
+    "id": "140-0",
+    "name": "Sekhmet",
+    "number": 140,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_Sekhmet_icon_normal.png"
+  },
+  {
+    "id": "190-0",
+    "name": "Selyne",
+    "number": 190,
+    "rarity": "Épico",
+    "types": [
+      "Oscuridad",
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_MoonQueen_icon_normal.png"
+  },
+  {
+    "id": "189-0",
+    "name": "Shadowbeak",
+    "number": 189,
+    "rarity": "Épico",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_BlackGriffon_icon_normal.png"
+  },
+  {
+    "id": "192-0",
+    "name": "Shaolong",
+    "number": 192,
+    "rarity": "Épico",
+    "types": [
+      "Dragón",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Recolección"
+    ],
+    "imageFile": "T_BlueSkyDragon_icon_normal.png"
+  },
+  {
+    "id": "118-0",
+    "name": "Shroomer",
+    "number": 118,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Agricultura"
+    ],
+    "imageFile": "T_MushroomDragon_icon_normal.png"
+  },
+  {
+    "id": "118-1",
+    "name": "Shroomer Noct",
+    "number": 118,
+    "rarity": "Raro",
+    "types": [
+      "Hoja",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación"
+    ],
+    "imageFile": "T_MushroomDragon_Dark_icon_normal.png"
+  },
+  {
+    "id": "116-0",
+    "name": "Sibelyx",
+    "number": 116,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Producción de Medicamentos",
+      "Refrigeración",
+      "Agricultura"
+    ],
+    "imageFile": "T_WhiteMoth_icon_normal.png"
+  },
+  {
+    "id": "116-1",
+    "name": "Sibelyx Primo",
+    "number": 116,
+    "rarity": "Épico",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Producción de Medicamentos",
+      "Agricultura"
+    ],
+    "imageFile": "T_WhiteMoth_Neutral_icon_normal.png"
+  },
+  {
+    "id": "193-0",
+    "name": "Silvance",
+    "number": 193,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_Mothman_icon_normal.png"
+  },
+  {
+    "id": "160-0",
+    "name": "Silvegis",
+    "number": 160,
+    "rarity": "Épico",
+    "types": [
+      "Dragón"
+    ],
+    "workSuitability": "Desforestación",
+    "imageFile": "T_WhiteShieldDragon_icon_normal.png"
+  },
+  {
+    "id": "128-0",
+    "name": "Skutlass",
+    "number": 128,
+    "rarity": "Raro",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Recolección",
+      "Desforestación"
+    ],
+    "imageFile": "T_SwordCutlassfish_icon_normal.png"
+  },
+  {
+    "id": "128-1",
+    "name": "Skutlass Ignis",
+    "number": 128,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Riego",
+      "Recolección",
+      "Desforestación"
+    ],
+    "imageFile": "T_SwordCutlassfish_Fire_icon_normal.png"
+  },
+  {
+    "id": "167-0",
+    "name": "Slowatt",
+    "number": 167,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": "Generación de Electricidad",
+    "imageFile": "T_ElecLizard_icon_normal.png"
+  },
+  {
+    "id": "149-0",
+    "name": "Smokie",
+    "number": 149,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_BlackPuppy_icon_normal.png"
+  },
+  {
+    "id": "149-1",
+    "name": "Smokie Cryst",
+    "number": 149,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad",
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración"
+    ],
+    "imageFile": "T_BlackPuppy_Ice_icon_normal.png"
+  },
+  {
+    "id": "163-0",
+    "name": "Snock",
+    "number": 163,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": "Generación de Electricidad",
+    "imageFile": "T_ElecSnail_icon_normal.png"
+  },
+  {
+    "id": "163-1",
+    "name": "Snock Lux",
+    "number": 163,
+    "rarity": "Común",
+    "types": [
+      "Electricidad",
+      "Tierra"
+    ],
+    "workSuitability": "Generación de Electricidad",
+    "imageFile": "T_ElecSnail_Ground_icon_normal.png"
+  },
+  {
+    "id": "133-0",
+    "name": "Snugloo",
+    "number": 133,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_SmallYeti_icon_normal.png"
+  },
+  {
+    "id": "182-0",
+    "name": "Solenne",
+    "number": 182,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Normal"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Transporte"
+    ],
+    "imageFile": "T_MonochromeQueen_icon_normal.png"
+  },
+  {
+    "id": "169-0",
+    "name": "Solmora",
+    "number": 169,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_KingSunfish_icon_normal.png"
+  },
+  {
+    "id": "169-1",
+    "name": "Solmora Lux",
+    "number": 169,
+    "rarity": "Raro",
+    "types": [
+      "Agua",
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Generación de Electricidad"
+    ],
+    "imageFile": "T_KingSunfish_Thunder_icon_normal.png"
+  },
+  {
+    "id": "135-0",
+    "name": "Sootseer",
+    "number": 135,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Recolección",
+      "Minería",
+      "Agricultura"
+    ],
+    "imageFile": "T_CandleGhost_icon_normal.png"
+  },
+  {
+    "id": "164-0",
+    "name": "Souffline",
+    "number": 164,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Transporte"
+    ],
+    "imageFile": "T_DandelionGirl_icon_normal.png"
+  },
+  {
+    "id": "42-0",
+    "name": "Sparkit",
+    "number": 42,
+    "rarity": "Común",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Trabajo Manual",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_ElecCat_icon_normal.png"
+  },
+  {
+    "id": "153-0",
+    "name": "Splatterina",
+    "number": 153,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Desforestación",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_GrimGirl_icon_normal.png"
+  },
+  {
+    "id": "130-0",
+    "name": "Starryon",
+    "number": 130,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_NightBlueHorse_icon_normal.png"
+  },
+  {
+    "id": "130-1",
+    "name": "Starryon Primo",
+    "number": 130,
+    "rarity": "Épico",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_NightBlueHorse_Neutral_icon_normal.png"
+  },
+  {
+    "id": "75-0",
+    "name": "Surfent",
+    "number": 75,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Agricultura"
+    ],
+    "imageFile": "T_Serpent_icon_normal.png"
+  },
+  {
+    "id": "75-1",
+    "name": "Surfent Terra",
+    "number": 75,
+    "rarity": "Raro",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_Serpent_Ground_icon_normal.png"
+  },
+  {
+    "id": "122-0",
+    "name": "Suzaku",
+    "number": 122,
+    "rarity": "Épico",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": "Encendido",
+    "imageFile": "T_Suzaku_icon_normal.png"
+  },
+  {
+    "id": "122-1",
+    "name": "Suzaku Aqua",
+    "number": 122,
+    "rarity": "Épico",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_Suzaku_Water_icon_normal.png"
+  },
+  {
+    "id": "35-0",
+    "name": "Swee",
+    "number": 35,
+    "rarity": "Común",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración"
+    ],
+    "imageFile": "T_MopBaby_icon_normal.png"
+  },
+  {
+    "id": "36-0",
+    "name": "Sweepa",
+    "number": 36,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Refrigeración"
+    ],
+    "imageFile": "T_MopKing_icon_normal.png"
+  },
+  {
+    "id": "23-0",
+    "name": "Tanzee",
+    "number": 23,
+    "rarity": "Común",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_Monkey_icon_normal.png"
+  },
+  {
+    "id": "23-1",
+    "name": "Tanzee Ignis",
+    "number": 23,
+    "rarity": "Común",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_Monkey_Fire_icon_normal.png"
+  },
+  {
+    "id": "71-0",
+    "name": "Tarantriss",
+    "number": 71,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_PurpleSpider_icon_normal.png"
+  },
+  {
+    "id": "11-0",
+    "name": "Teafant",
+    "number": 11,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": "Riego",
+    "imageFile": "T_Ganesha_icon_normal.png"
+  },
+  {
+    "id": "142-0",
+    "name": "Tetroise",
+    "number": 142,
+    "rarity": "Épico",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_CubeTurtle_icon_normal.png"
+  },
+  {
+    "id": "142-1",
+    "name": "Tetroise Primo",
+    "number": 142,
+    "rarity": "Épico",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_CubeTurtle_Neutral_icon_normal.png"
+  },
+  {
+    "id": "53-0",
+    "name": "Tocotoco",
+    "number": 53,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_ColorfulBird_icon_normal.png"
+  },
+  {
+    "id": "52-0",
+    "name": "Tombat",
+    "number": 52,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_CatBat_icon_normal.png"
+  },
+  {
+    "id": "173-0",
+    "name": "Tropicaw",
+    "number": 173,
+    "rarity": "Raro",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Recolección"
+    ],
+    "imageFile": "T_RedFlowerBird_icon_normal.png"
+  },
+  {
+    "id": "37-0",
+    "name": "Turtacle",
+    "number": 37,
+    "rarity": "Común",
+    "types": [
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_TentacleTurtle_icon_normal.png"
+  },
+  {
+    "id": "37-1",
+    "name": "Turtacle Terra",
+    "number": 37,
+    "rarity": "Común",
+    "types": [
+      "Agua",
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_TentacleTurtle_Ground_icon_normal.png"
+  },
+  {
+    "id": "54-0",
+    "name": "Univolt",
+    "number": 54,
+    "rarity": "Raro",
+    "types": [
+      "Electricidad"
+    ],
+    "workSuitability": [
+      "Generación de Electricidad",
+      "Desforestación"
+    ],
+    "imageFile": "T_Kirin_icon_normal.png"
+  },
+  {
+    "id": "54-1",
+    "name": "Univolt Cryst",
+    "number": 54,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Refrigeración"
+    ],
+    "imageFile": "T_Kirin_Ice_icon_normal.png"
+  },
+  {
+    "id": "66-0",
+    "name": "Vaelet",
+    "number": 66,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte",
+      "Agricultura"
+    ],
+    "imageFile": "T_VioletFairy_icon_normal.png"
+  },
+  {
+    "id": "162-0",
+    "name": "Valentail",
+    "number": 162,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_LongCat_icon_normal.png"
+  },
+  {
+    "id": "64-0",
+    "name": "Vanwyrm",
+    "number": 64,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Transporte"
+    ],
+    "imageFile": "T_BirdDragon_icon_normal.png"
+  },
+  {
+    "id": "64-1",
+    "name": "Vanwyrm Cryst",
+    "number": 64,
+    "rarity": "Raro",
+    "types": [
+      "Hielo",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_BirdDragon_Ice_icon_normal.png"
+  },
+  {
+    "id": "178-0",
+    "name": "Venusa",
+    "number": 178,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Recolección",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_SnakeGirl_icon_normal.png"
+  },
+  {
+    "id": "152-0",
+    "name": "Verdash",
+    "number": 152,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Recolección",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_GrassRabbitMan_icon_normal.png"
+  },
+  {
+    "id": "6-0",
+    "name": "Vixy",
+    "number": 6,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": [
+      "Recolección",
+      "Agricultura"
+    ],
+    "imageFile": "T_CuteFox_icon_normal.png"
+  },
+  {
+    "id": "113-0",
+    "name": "Warsect",
+    "number": 113,
+    "rarity": "Épico",
+    "types": [
+      "Tierra",
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_HerculesBeetle_icon_normal.png"
+  },
+  {
+    "id": "113-1",
+    "name": "Warsect Terra",
+    "number": 113,
+    "rarity": "Épico",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Minería",
+      "Transporte"
+    ],
+    "imageFile": "T_HerculesBeetle_Ground_icon_normal.png"
+  },
+  {
+    "id": "151-0",
+    "name": "Whalaska",
+    "number": 151,
+    "rarity": "Épico",
+    "types": [
+      "Hielo",
+      "Agua"
+    ],
+    "workSuitability": [
+      "Riego",
+      "Refrigeración"
+    ],
+    "imageFile": "T_IceNarwhal_icon_normal.png"
+  },
+  {
+    "id": "151-1",
+    "name": "Whalaska Ignis",
+    "number": 151,
+    "rarity": "Épico",
+    "types": [
+      "Hielo",
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Refrigeración"
+    ],
+    "imageFile": "T_IceNarwhal_Fire_icon_normal.png"
+  },
+  {
+    "id": "50-0",
+    "name": "Wispaw",
+    "number": 50,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Desforestación",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_GhostBlackCat_icon_normal.png"
+  },
+  {
+    "id": "181-0",
+    "name": "Wistella",
+    "number": 181,
+    "rarity": "Común",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Producción de Medicamentos",
+      "Transporte"
+    ],
+    "imageFile": "T_MoonChild_icon_normal.png"
+  },
+  {
+    "id": "78-0",
+    "name": "Wixen",
+    "number": 78,
+    "rarity": "Raro",
+    "types": [
+      "Fuego"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_FoxMage_icon_normal.png"
+  },
+  {
+    "id": "78-1",
+    "name": "Wixen Noct",
+    "number": 78,
+    "rarity": "Raro",
+    "types": [
+      "Fuego",
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Encendido",
+      "Trabajo Manual",
+      "Transporte"
+    ],
+    "imageFile": "T_FoxMage_Dark_icon_normal.png"
+  },
+  {
+    "id": "39-0",
+    "name": "Woolipop",
+    "number": 39,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Agricultura",
+    "imageFile": "T_SweetsSheep_icon_normal.png"
+  },
+  {
+    "id": "39-1",
+    "name": "Woolipop Terra",
+    "number": 39,
+    "rarity": "Común",
+    "types": [
+      "Tierra"
+    ],
+    "workSuitability": "Agricultura",
+    "imageFile": "T_SweetsSheep_Ground_icon_normal.png"
+  },
+  {
+    "id": "134-0",
+    "name": "Wumpo",
+    "number": 134,
+    "rarity": "Raro",
+    "types": [
+      "Hielo"
+    ],
+    "workSuitability": [
+      "Trabajo Manual",
+      "Desforestación",
+      "Refrigeración",
+      "Transporte"
+    ],
+    "imageFile": "T_Yeti_icon_normal.png"
+  },
+  {
+    "id": "134-1",
+    "name": "Wumpo Botan",
+    "number": 134,
+    "rarity": "Épico",
+    "types": [
+      "Hoja"
+    ],
+    "workSuitability": [
+      "Siembra",
+      "Trabajo Manual",
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_Yeti_Grass_icon_normal.png"
+  },
+  {
+    "id": "146-0",
+    "name": "Xenogard",
+    "number": 146,
+    "rarity": "Épico",
+    "types": [
+      "Dragón"
+    ],
+    "workSuitability": "Minería",
+    "imageFile": "T_WhiteAlienDragon_icon_normal.png"
+  },
+  {
+    "id": "196-0",
+    "name": "Xenolord",
+    "number": 196,
+    "rarity": "Épico",
+    "types": [
+      "Oscuridad",
+      "Dragón"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_DarkMechaDragon_icon_normal.png"
+  },
+  {
+    "id": "145-0",
+    "name": "Xenovader",
+    "number": 145,
+    "rarity": "Raro",
+    "types": [
+      "Oscuridad"
+    ],
+    "workSuitability": [
+      "Desforestación",
+      "Transporte"
+    ],
+    "imageFile": "T_DarkAlien_icon_normal.png"
+  },
+  {
+    "id": "127-0",
+    "name": "Yakumo",
+    "number": 127,
+    "rarity": "Común",
+    "types": [
+      "Normal"
+    ],
+    "workSuitability": "Recolección",
+    "imageFile": "T_GuardianDog_icon_normal.png"
+  }
+]

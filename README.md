@@ -5,9 +5,9 @@ PalAtlas es un compañero de viaje para tus partidas de Palworld: Paldex, cría,
 ## Funciones
 
 - Panel inicial con progreso de Paldex, tecnología, equipo favorito, mapa y logros de Steam/PlayStation.
-- Paldex visual con fichas por imagen, filtros, elementos, hábitats, rareza y cruces.
+- Paldex visual local con 299 fichas, imágenes alojadas en el servidor, elementos, rareza, trabajos y cruces.
 - Breeding lab visual con pasivas, rutas directas y cruces favoritos.
-- Mapa con ubicaciones, niveles mínimos y lugares visitados.
+- Mapa local ilustrado con zoom, arrastre, filtros, regiones, torres, mazmorras y lugares visitados.
 - Tecnologías filtradas por nivel y catálogo de estructuras.\n- Creador de equipos con seis huecos guardado en el progreso.
 - Materiales, recetas y lista de recolección.
 - Objetivos personalizados integrados en el progreso.
@@ -53,3 +53,4 @@ En producción se recomienda HTTPS en nginx, almacenamiento persistente para SQL
 ## Estado del proyecto
 
 La aplicación está preparada como PWA y como base para empaquetarla con Capacitor/TWA para Android. Antes de publicar en Play Store hay que generar el AAB, configurar Play App Signing, política de privacidad y pruebas en dispositivos reales.
+

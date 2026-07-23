@@ -32,16 +32,25 @@ export const levelMilestones = [
 ];
 
 export const mapLocations = [
-  { id: "plateau", name: "Meseta de los comienzos", category: "Zona", minLevel: 1, x: 22, y: 63, description: "Zona segura para conseguir materiales básicos y tus primeros Pals." },
-  { id: "tower-rayne", name: "Torre del Sindicato de Rayne", category: "Torre", minLevel: 10, x: 39, y: 42, description: "Primer gran desafío de la historia y punto de referencia para tu progreso." },
-  { id: "small-settlement", name: "Pequeño asentamiento", category: "Poblado", minLevel: 5, x: 53, y: 68, description: "Comercio, misiones y acceso a servicios para preparar la siguiente expedición." },
-  { id: "desolate-church", name: "Iglesia desolada", category: "Mazmorra", minLevel: 8, x: 67, y: 36, description: "Explora sus alrededores para encontrar cofres y recursos antiguos." },
-  { id: "dungeon-cave", name: "Caverna de las colinas", category: "Mazmorra", minLevel: 12, x: 78, y: 60, description: "Una buena primera mazmorra para probar tu equipo y buscar planos." },
-  { id: "volcano", name: "Monte Obsidiana", category: "Zona", minLevel: 25, x: 70, y: 20, description: "Región peligrosa con calor extremo, mineral raro y Pals de fuego." },
-  { id: "ice-mountain", name: "Montañas de Astral", category: "Zona", minLevel: 35, x: 28, y: 18, description: "Zona helada de alto nivel: lleva protección térmica y buen equipo." },
-  { id: "tower-leader", name: "Torre de la Alianza", category: "Torre", minLevel: 40, x: 50, y: 24, description: "Desafío avanzado reservado para una base y un grupo bien preparados." }
-];
-export const recipes = [
+  { id: "plateau", name: "Meseta de los comienzos", region: "Pradera de inicio", category: "Zona", minLevel: 1, x: 18, y: 62, description: "Zona de inicio con madera, piedra, Paldium y Pals comunes." },
+  { id: "small-settlement", name: "Pequeño asentamiento", region: "Pradera de inicio", category: "Poblado", minLevel: 5, x: 31, y: 55, description: "Comercio, misiones y suministros para comenzar la expedición." },
+  { id: "rayne-tower", name: "Torre del Sindicato de Rayne", region: "Pradera de inicio", category: "Torre", minLevel: 10, x: 39, y: 43, description: "Primer gran desafío de la historia y referencia del progreso." },
+  { id: "desolate-church", name: "Iglesia desolada", region: "Pradera de inicio", category: "Mazmorra", minLevel: 8, x: 29, y: 34, description: "Ruinas con cofres, recursos antiguos y rutas hacia el norte." },
+  { id: "sealed-swordmaster", name: "Santuario del maestro de espada", region: "Bosque húmedo", category: "Santuario", minLevel: 14, x: 49, y: 31, description: "Santuario sellado entre bosques y acantilados." },
+  { id: "cave-hills", name: "Caverna de las colinas", region: "Bosque húmedo", category: "Mazmorra", minLevel: 12, x: 52, y: 57, description: "Mazmorra de nivel medio con planos y mineral." },
+  { id: "volcano", name: "Monte Obsidiana", region: "Volcán", category: "Zona", minLevel: 25, x: 76, y: 28, description: "Región de calor extremo, mineral raro y Pals de fuego." },
+  { id: "eternal-pyre", name: "Torre de la Pira Eterna", region: "Volcán", category: "Torre", minLevel: 30, x: 68, y: 18, description: "Torre de alto nivel en las laderas volcánicas." },
+  { id: "fishermans-point", name: "Punta del pescador", region: "Costa", category: "Poblado", minLevel: 18, x: 63, y: 68, description: "Costa con agua, pesca y rutas marítimas." },
+  { id: "ice-mountain", name: "Montañas de Astral", region: "Tundra", category: "Zona", minLevel: 35, x: 27, y: 17, description: "Zona helada de alto nivel: prepara protección térmica." },
+  { id: "free-pal-alliance", name: "Torre de la Alianza Libre", region: "Tundra", category: "Torre", minLevel: 40, x: 42, y: 16, description: "Desafío avanzado en las montañas del norte." },
+  { id: "dunes", name: "Desierto aislado", region: "Desierto", category: "Zona", minLevel: 28, x: 79, y: 55, description: "Dunas abiertas con ruinas, cofres y Pals de tierra." },
+  { id: "dune-shelter", name: "Refugio de dunas", region: "Desierto", category: "Poblado", minLevel: 30, x: 86, y: 46, description: "Punto de descanso y comercio en el desierto." },
+  { id: "wildlife-sanctuary-1", name: "Santuario de fauna 1", region: "Mar exterior", category: "Santuario", minLevel: 22, x: 12, y: 33, description: "Isla protegida con Pals raros y recursos especiales." },
+  { id: "wildlife-sanctuary-2", name: "Santuario de fauna 2", region: "Mar exterior", category: "Santuario", minLevel: 32, x: 88, y: 26, description: "Isla remota con Pals de nivel alto." },
+  { id: "wildlife-sanctuary-3", name: "Santuario de fauna 3", region: "Mar exterior", category: "Santuario", minLevel: 38, x: 52, y: 82, description: "Isla meridional con encuentros poco frecuentes." },
+  { id: "tower-alliance", name: "Torre de la Alianza", region: "Costa", category: "Torre", minLevel: 40, x: 55, y: 24, description: "Desafío avanzado reservado para equipos preparados." },
+  { id: "ancient-ruins", name: "Ruinas antiguas", region: "Costa", category: "Ruinas", minLevel: 20, x: 67, y: 45, description: "Restos de una civilización anterior con piezas antiguas." }
+];export const recipes = [
   { id: "pal-sphere", name: "Esfera Pal", output: 1, ingredients: [{ materialId: "paldium-fragment", amount: 1 }, { materialId: "wood", amount: 3 }, { materialId: "stone", amount: 3 }] },
   { id: "cake", name: "Tarta", output: 1, ingredients: [{ materialId: "flour", amount: 5 }, { materialId: "red-berries", amount: 8 }, { materialId: "milk", amount: 7 }, { materialId: "egg", amount: 8 }, { materialId: "honey", amount: 2 }] }
 ];

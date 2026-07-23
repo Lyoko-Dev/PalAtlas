@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Mapa ilustrado del archipiélago de Palpagos">
+<defs><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#b7d8d2"/><stop offset="1" stop-color="#6fa5a0"/></linearGradient><filter id="paper"><feTurbulence baseFrequency=".015" numOctaves="2" result="n"/><feColorMatrix in="n" values="0 0 0 0 .2 0 0 0 0 .3 0 0 0 0 .27 0 0 0 .12 0"/><feBlend in="SourceGraphic"/></filter></defs>
+<rect width="1200" height="760" fill="url(#sea)"/><path d="M0 0h1200v760H0z" fill="url(#sea)"/>
+<g fill="#d8d6b5" stroke="#587f79" stroke-width="4" stroke-linejoin="round" filter="url(#paper)">
+<path d="M80 65 220 35l125 60 55 130-80 115-160 30-92-105z"/><path d="m335 100 155-45 160 80 22 155-105 115-170-38-78-112z"/><path d="m580 235 120-85 160 35 95 135-70 160-160 38-135-105z"/><path d="m850 70 170-26 127 120-15 168-126 64-114-88 27-130z"/><path d="m390 480 160-60 175 75 52 126-152 74-181-45z"/>
+</g><g fill="none" stroke="#8eaa91" stroke-width="3" opacity=".8"><path d="M120 180c100-40 190 50 260 20M420 145c80 60 160 35 235 90M650 330c80-55 170 5 235 65M470 575c100-30 190 25 270 15"/><path d="M160 260c80 50 125 72 212 55M720 535c70-30 145-20 200 28"/></g>
+<g fill="#688779" opacity=".75"><path d="m155 145 20-45 18 45zM270 200l25-55 22 55zM478 135l22-48 19 48zM735 315l24-52 22 52zM930 150l23-54 21 54zM525 550l24-55 22 55z"/></g>
+<g fill="#436f6b" font-family="sans-serif" font-size="18" font-weight="700" opacity=".8"><text x="125" y="100">PRADERA</text><text x="410" y="120">BOSQUE</text><text x="685" y="305">COSTA</text><text x="890" y="110">DESIERTO</text><text x="455" y="690">MAR DEL SUR</text></g>
+<g fill="none" stroke="#f4edd6" stroke-width="3" stroke-dasharray="10 12" opacity=".8"><path d="M70 380c200-110 370-90 540-25s330 30 520-40"/><path d="M190 690c160-155 300-220 490-180s280 0 450-120"/></g>
+</svg>
