@@ -4,16 +4,16 @@ PalAtlas es un compañero de viaje para tus partidas de Palworld: Paldex, cría,
 
 ## Funciones
 
-- Panel inicial con nivel, desbloqueos y zonas recomendadas.
-- Paldex con filtros, colección y estadísticas.
-- Breeding lab con pasivas, rutas directas y cruces favoritos.
+- Panel inicial con progreso de Paldex, tecnología, equipo favorito, mapa y logros de Steam/PlayStation.
+- Paldex visual con fichas por imagen, filtros, elementos, hábitats, rareza y cruces.
+- Breeding lab visual con pasivas, rutas directas y cruces favoritos.
 - Mapa con ubicaciones, niveles mínimos y lugares visitados.
-- Tecnologías filtradas por nivel.
+- Tecnologías filtradas por nivel y catálogo de estructuras.\n- Creador de equipos con seis huecos guardado en el progreso.
 - Materiales, recetas y lista de recolección.
-- Objetivos personalizados y modo sesión.
+- Objetivos personalizados integrados en el progreso.
 - Importación JSON/CSV y copias de seguridad.
 - PWA offline con IndexedDB.
-- Cuenta, login y sincronización por usuario.
+- Feed unificado de noticias oficiales.\n- Cuenta, login y sincronización por usuario.
 
 ## Desarrollo local
 

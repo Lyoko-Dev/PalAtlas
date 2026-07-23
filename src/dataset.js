@@ -16,12 +16,15 @@ function parseCsv(text) {
 
 export function catalogFromSummary(csv, baseCatalog = pals) {
   const known = new Map(baseCatalog.map((pal) => [pal.name.toLowerCase(), pal]));
-  return parseCsv(csv).map((row) => known.get(row.child_name.toLowerCase()) ?? {
-    id: row.child_id.replace(":", "-"), name: row.child_name, number: Number.parseInt(row.child_dex_no, 10) || null,
-    types: [], breedingPower: null, habitat: "Desconocido", passives: [], comboCount: Number(row.combo_count)
+  return parseCsv(csv).map((row) => {
+    const base = known.get(row.child_name.toLowerCase());
+    if (base) return { ...base, comboCount: Number(row.combo_count) || 0, rarity: base.rarity || (Number(row.combo_count) > 1000 ? "Común" : "Especial") };
+    return {
+      id: row.child_id.replace(":", "-"), name: row.child_name, number: Number.parseInt(row.child_dex_no, 10) || null,
+      types: [], breedingPower: null, habitat: "Desconocido", passives: [], comboCount: Number(row.combo_count) || 0
+    };
   });
 }
-
 export function breedingCombosFromCsv(csv) { return parseCsv(csv); }
 
 export async function loadVersionedDataset(baseUrl = "/data/") {
@@ -32,4 +35,9 @@ export async function loadVersionedDataset(baseUrl = "/data/") {
   const [summary, combos] = await Promise.all([summaryResponse.text(), combosResponse.text()]);
   return { pals: catalogFromSummary(summary), combos: breedingCombosFromCsv(combos), source: "Palworld Breeding Reference · snapshot 2026-07-16" };
 }
+
+
+
+
+
 
