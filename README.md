@@ -1,18 +1,53 @@
 # PalAtlas
 
-PalAtlas es un compañero de viaje para tus partidas de Palworld.
+PalAtlas es un compañero de viaje para tus partidas de Palworld: Paldex, cría, mapa, materiales, tecnologías, objetivos y progreso sincronizable.
 
-Colecciona tus Pals, planifica tus cruces, prepara los materiales que necesitas y mantén tus objetivos a mano desde un único lugar.
+## Funciones
 
-## Qué encontrarás
+- Panel inicial con nivel, desbloqueos y zonas recomendadas.
+- Paldex con filtros, colección y estadísticas.
+- Breeding lab con pasivas, rutas directas y cruces favoritos.
+- Mapa con ubicaciones, niveles mínimos y lugares visitados.
+- Tecnologías filtradas por nivel.
+- Materiales, recetas y lista de recolección.
+- Objetivos personalizados y modo sesión.
+- Importación JSON/CSV y copias de seguridad.
+- PWA offline con IndexedDB.
+- Cuenta, login y sincronización por usuario.
 
-- **Paldex:** descubre Pals, búscalos y marca los que ya tienes.
-- **Breeding lab:** explora resultados, pasivas y combinaciones para llegar al Pal que buscas.
-- **Materiales:** consulta recursos y calcula lo que necesitas para tus recetas.
-- **Progreso:** sigue tus próximos desbloqueos y guarda tu avance.
-- **Noticias:** accede a las novedades y canales oficiales de Palworld.
-- **Modo oscuro:** elige el ambiente que prefieras para tus sesiones largas.
+## Desarrollo local
 
-PalAtlas está pensado para acompañarte mientras exploras, construyes y crías. Tu progreso se queda contigo en el navegador y puedes llevarlo contigo cuando cambies de dispositivo.
+Requisitos: Node.js 24+ (usa `node:sqlite`).
 
-Visita la aplicación en [palatlas.lyokodev.com](https://palatlas.lyokodev.com).
+```powershell
+npm test
+npm start
+```
+
+Abre `http://localhost:4173`. La API y la interfaz se sirven desde el mismo proceso.
+
+La cuenta local requiere una contraseña de al menos 8 caracteres. La base SQLite se crea en `data/palatlas.sqlite`; ese archivo no se versiona.
+
+## API
+
+- `POST /api/auth/register` — `{ "email", "password" }`.
+- `POST /api/auth/login` — devuelve un token Bearer.
+- `POST /api/auth/logout`.
+- `GET /api/auth/me`.
+- `POST /api/auth/request-reset` — en desarrollo devuelve el token; en producción debe conectarse a un proveedor de email.
+- `POST /api/auth/reset`.
+- `GET|POST /api/sync` — requiere `Authorization: Bearer <token>`.
+
+## Despliegue
+
+La configuración de producción está en `deploy/`:
+
+- `deploy/nginx/palatlas.lyokodev.com`: archivos estáticos y proxy `/api` hacia Node.
+- `deploy/systemd/palatlas.service`: servicio Node con reinicio automático.
+- `docs/DEPLOYMENT.md`: pasos de instalación, actualización y comprobación.
+
+En producción se recomienda HTTPS en nginx, almacenamiento persistente para SQLite, backups de `data/palatlas.sqlite` y secretos fuera del repositorio.
+
+## Estado del proyecto
+
+La aplicación está preparada como PWA y como base para empaquetarla con Capacitor/TWA para Android. Antes de publicar en Play Store hay que generar el AAB, configurar Play App Signing, política de privacidad y pruebas en dispositivos reales.

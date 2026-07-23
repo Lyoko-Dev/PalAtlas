@@ -1,0 +1,21 @@
+[Unit]
+Description=PalAtlas web and API
+After=network.target
+
+[Service]
+Type=simple
+User=lyokolab
+WorkingDirectory=/opt/apps/palatlas
+Environment=NODE_ENV=production
+Environment=PORT=4173
+Environment=HOST=127.0.0.1
+ExecStart=/usr/bin/node /opt/apps/palatlas/server.mjs
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=/opt/apps/palatlas/data
+
+[Install]
+WantedBy=multi-user.target

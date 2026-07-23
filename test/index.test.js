@@ -1,5 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { csvToObjects } from "../src/storage.js";
 import { version, pals, materials, calculateBreeding, searchPals, togglePal, mergeNews, officialNewsSources } from "../src/index.js";
 
 test("expone la versión del proyecto", () => assert.equal(version, "0.2.0"));
@@ -27,4 +28,10 @@ test("expone fuentes oficiales y normaliza noticias", () => {
   assert.ok(officialNewsSources.some((source) => source.handle === "@Palworld_EN"));
   const news = mergeNews([{ id: "1", title: " Actualización ", publishedAt: "2026-01-01", url: "https://example.com" }]);
   assert.equal(news[0].title, "Actualización");
+});
+
+test("parsea CSV simple", () => {
+  const rows = csvToObjects("name,level" + String.fromCharCode(10) + "Lamball,1");
+  assert.equal(rows[0].name, "Lamball");
+  assert.equal(rows[0].level, "1");
 });

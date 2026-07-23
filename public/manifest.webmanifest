@@ -6,6 +6,7 @@
   "display": "standalone",
   "background_color": "#f5f8f3",
   "theme_color": "#174955",
-  "icons": []
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "games"],
+  "prefer_related_applications": false
 }
-
