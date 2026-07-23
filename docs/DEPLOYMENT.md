@@ -4,16 +4,16 @@
 
 - Node.js 24 o superior.
 - nginx con HTTPS.
-- Usuario de servicio con permisos sobre `/opt/apps/palatlas/data`.
+- Usuario de servicio con permisos sobre `/home/lyokodev/docker/palatlas/data`.
 
 ## Instalación
 
 ```bash
-sudo mkdir -p /opt/apps/palatlas
-sudo chown -R lyokolab:lyokolab /opt/apps/palatlas
-cd /opt/apps/palatlas
+mkdir -p /home/lyokodev/docker/palatlas
+
+cd /home/lyokodev/docker/palatlas
 npm ci --omit=dev
-sudo cp deploy/systemd/palatlas.service /etc/systemd/system/palatlas.service
+
 sudo systemctl daemon-reload
 sudo systemctl enable --now palatlas
 ```
@@ -44,3 +44,7 @@ Haz backup de `data/palatlas.sqlite` antes de actualizar. No expongas el puerto 
 ## Cuenta y recuperación
 
 El endpoint `/api/auth/request-reset` devuelve el token para desarrollo local. En producción debe conectarse a un proveedor de email antes de habilitar recuperación de contraseña para usuarios finales.
+
+## VPS LyokoDev
+
+El despliegue activo usa el usuario lyokodev y el directorio /home/lyokodev/docker/palatlas. El dominio palatlas.lyokodev.com termina TLS en nginx y reenvía web y API al contenedor en 127.0.0.1:4173. Las credenciales SSH se mantienen fuera de este repositorio, en el inventario operativo del VPS.
