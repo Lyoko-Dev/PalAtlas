@@ -57,16 +57,29 @@ export const mapLocations = [
 
 
 export const technologies = [
-  { id: "primitive-tools", level: 1, name: "Herramientas primitivas", category: "Supervivencia", unlocks: "Hacha, pico y banco de trabajo" },
-  { id: "pal-sphere", level: 2, name: "Esfera Pal", category: "Captura", unlocks: "Captura básica de Pals" },
-  { id: "berry-plantation", level: 5, name: "Plantación de bayas", category: "Base", unlocks: "Producción automática de comida" },
-  { id: "breeding-farm", level: 19, name: "Granja de cría", category: "Cría", unlocks: "Cría y obtención de huevos" },
-  { id: "metal-tools", level: 20, name: "Herramientas de metal", category: "Producción", unlocks: "Minería y fabricación mejoradas" },
-  { id: "production-line", level: 32, name: "Línea de producción", category: "Automatización", unlocks: "Producción industrial" },
-  { id: "legendary-tech", level: 40, name: "Tecnología avanzada", category: "Final", unlocks: "Equipo de final de juego" }
-];
-export const sessionTasks = [
+  { id: "primitive-tools", level: 1, name: "Herramientas primitivas", category: "Supervivencia", unlocks: "Hacha, pico y banco de trabajo", branch: "Base" },
+  { id: "pal-sphere", level: 2, name: "Esfera Pal", category: "Captura", unlocks: "Captura básica de Pals", branch: "Captura" },
+  { id: "campfire", level: 2, name: "Fogata", category: "Supervivencia", unlocks: "Cocina y calor durante la noche", branch: "Base" },
+  { id: "berry-plantation", level: 5, name: "Plantación de bayas", category: "Base", unlocks: "Producción automática de comida", branch: "Base" },
+  { id: "repair-bench", level: 5, name: "Mesa de reparación", category: "Producción", unlocks: "Mantén tus herramientas en buen estado", branch: "Producción" },
+  { id: "parachute", level: 8, name: "Paracaídas", category: "Exploración", unlocks: "Desciende desde riscos y torres", branch: "Exploración" },
+  { id: "shield", level: 12, name: "Escudo", category: "Combate", unlocks: "Protección personal contra el daño", branch: "Combate" },
+  { id: "breeding-farm", level: 19, name: "Granja de cría", category: "Cría", unlocks: "Cría y obtención de huevos", branch: "Cría" },
+  { id: "cake", level: 19, name: "Tarta", category: "Cría", unlocks: "Alimento necesario para la granja de cría", branch: "Cría" },
+  { id: "metal-tools", level: 20, name: "Herramientas de metal", category: "Producción", unlocks: "Minería y fabricación mejoradas", branch: "Producción" },
+  { id: "grappling-gun", level: 22, name: "Lanzagarfios", category: "Exploración", unlocks: "Sube pendientes y cruza desniveles", branch: "Exploración" },
+  { id: "pal-essence", level: 26, name: "Condensador de esencia", category: "Pals", unlocks: "Mejora Pals duplicados", branch: "Pals" },
+  { id: "electric-kitchen", level: 27, name: "Cocina eléctrica", category: "Base", unlocks: "Cocina con mayor velocidad", branch: "Base" },
+  { id: "production-line", level: 32, name: "Línea de producción", category: "Automatización", unlocks: "Producción industrial", branch: "Producción" },
+  { id: "weapon-line", level: 32, name: "Línea de armas", category: "Combate", unlocks: "Fabricación de armas avanzadas", branch: "Combate" },
+  { id: "sphere-launcher", level: 35, name: "Lanzador de esferas", category: "Captura", unlocks: "Captura a distancia", branch: "Captura" },
+  { id: "advanced-farm", level: 36, name: "Granja avanzada", category: "Base", unlocks: "Automatiza comida y materiales", branch: "Base" },
+  { id: "legendary-tech", level: 40, name: "Tecnología avanzada", category: "Final", unlocks: "Equipo de final de juego", branch: "Final" },
+  { id: "rocket-launcher", level: 49, name: "Lanzacohetes", category: "Combate", unlocks: "Potencia explosiva de alto nivel", branch: "Final" },
+  { id: "paldeck-terminal", level: 50, name: "Terminal Pal de élite", category: "Pals", unlocks: "Gestión completa del Palbox", branch: "Final" }
+];export const sessionTasks = [
   { id: "capture-pals", title: "Capturar 3 Pals", category: "Colección" },
   { id: "visit-location", title: "Visitar una ubicación del mapa", category: "Exploración" },
   { id: "craft-recipe", title: "Preparar una receta", category: "Crafting" }
 ];
+
