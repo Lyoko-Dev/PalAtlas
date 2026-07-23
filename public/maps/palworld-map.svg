@@ -1,10 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Mapa ilustrado del archipiélago de Palpagos">
-<defs><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#b7d8d2"/><stop offset="1" stop-color="#6fa5a0"/></linearGradient><filter id="paper"><feTurbulence baseFrequency=".015" numOctaves="2" result="n"/><feColorMatrix in="n" values="0 0 0 0 .2 0 0 0 0 .3 0 0 0 0 .27 0 0 0 .12 0"/><feBlend in="SourceGraphic"/></filter></defs>
-<rect width="1200" height="760" fill="url(#sea)"/><path d="M0 0h1200v760H0z" fill="url(#sea)"/>
-<g fill="#d8d6b5" stroke="#587f79" stroke-width="4" stroke-linejoin="round" filter="url(#paper)">
-<path d="M80 65 220 35l125 60 55 130-80 115-160 30-92-105z"/><path d="m335 100 155-45 160 80 22 155-105 115-170-38-78-112z"/><path d="m580 235 120-85 160 35 95 135-70 160-160 38-135-105z"/><path d="m850 70 170-26 127 120-15 168-126 64-114-88 27-130z"/><path d="m390 480 160-60 175 75 52 126-152 74-181-45z"/>
-</g><g fill="none" stroke="#8eaa91" stroke-width="3" opacity=".8"><path d="M120 180c100-40 190 50 260 20M420 145c80 60 160 35 235 90M650 330c80-55 170 5 235 65M470 575c100-30 190 25 270 15"/><path d="M160 260c80 50 125 72 212 55M720 535c70-30 145-20 200 28"/></g>
-<g fill="#688779" opacity=".75"><path d="m155 145 20-45 18 45zM270 200l25-55 22 55zM478 135l22-48 19 48zM735 315l24-52 22 52zM930 150l23-54 21 54zM525 550l24-55 22 55z"/></g>
-<g fill="#436f6b" font-family="sans-serif" font-size="18" font-weight="700" opacity=".8"><text x="125" y="100">PRADERA</text><text x="410" y="120">BOSQUE</text><text x="685" y="305">COSTA</text><text x="890" y="110">DESIERTO</text><text x="455" y="690">MAR DEL SUR</text></g>
-<g fill="none" stroke="#f4edd6" stroke-width="3" stroke-dasharray="10 12" opacity=".8"><path d="M70 380c200-110 370-90 540-25s330 30 520-40"/><path d="M190 690c160-155 300-220 490-180s280 0 450-120"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-label="Mapa local ilustrado de Palpagos">
+<defs>
+ <linearGradient id="water" x2="0" y2="1"><stop stop-color="#6fa6aa"/><stop offset="1" stop-color="#315f69"/></linearGradient>
+ <linearGradient id="land" x2="1" y2="1"><stop stop-color="#d8d1a9"/><stop offset="1" stop-color="#b8c38d"/></linearGradient>
+ <linearGradient id="snow" x2="0" y2="1"><stop stop-color="#e7eee8"/><stop offset="1" stop-color="#a9c9c6"/></linearGradient>
+ <linearGradient id="desert" x2="1" y2="1"><stop stop-color="#e6c888"/><stop offset="1" stop-color="#b98955"/></linearGradient>
+ <linearGradient id="volcano" x2="0" y2="1"><stop stop-color="#b56c45"/><stop offset="1" stop-color="#713b43"/></linearGradient>
+ <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#e3f0e833" stroke-width="1"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1400" height="900" fill="url(#water)"/><rect width="1400" height="900" fill="url(#grid)" opacity=".35"/>
+<!-- outer sanctuaries -->
+<g fill="#9ec8b6" stroke="#284f59" stroke-width="5"><path d="M90 160c35-55 120-55 160-5 24 31 16 83-22 105-52 31-126 16-151-31-12-23-6-48 13-69z"/><path d="M1170 100c40-45 112-34 142 11 23 35 2 87-43 105-57 23-119-5-125-53-2-23 8-46 26-63z"/><path d="M1125 700c36-43 104-46 141-7 31 32 17 86-27 109-52 27-121 1-130-47-4-20 2-39 16-55z"/></g>
+<!-- main island masses -->
+<path d="M260 122c88-59 194-45 260 18 49 47 52 91 106 110 62 22 119-32 177-14 59 18 76 85 129 105 55 21 130-14 180 23 47 35 45 104 8 143-38 41-103 46-123 89-21 47 20 104-10 153-36 58-122 57-177 31-58-27-83-82-143-92-70-12-134 49-204 34-59-12-92-77-77-136 13-50 66-82 62-133-4-58-72-89-101-138-31-52-27-119 13-174z" fill="url(#land)" stroke="#284f59" stroke-width="7"/>
+<path d="M590 130c74-54 161-57 225-10 45 33 58 92 102 113 45 22 118 1 163 45 45 45 33 122-11 157-38 30-91 29-109 70-22 50 29 112-6 157-34 43-103 35-155 11-60-28-89-82-142-99-47-15-95 9-139-14-52-27-59-96-27-138 28-37 87-57 85-106-2-50-40-84 14-186z" fill="#cfdbac" opacity=".5" stroke="#567976" stroke-width="3"/>
+<!-- snowy north-west region -->
+<path d="M265 122c88-59 194-45 260 18 49 47 52 91 106 110-41 18-94 12-130-25-36-38-36-100-91-112-51-11-106 39-153 11z" fill="url(#snow)" stroke="#557f86" stroke-width="4"/>
+<!-- desert east -->
+<path d="M916 241c55-30 139-9 176 35 47 55 31 127-16 157-38 25-84 24-103 65-18 38 1 76-19 106-38-36-52-82-40-124 13-43 63-61 49-101-12-36-50-63-47-138z" fill="url(#desert)" stroke="#805c4f" stroke-width="5"/>
+<!-- volcano south-east -->
+<path d="M890 516c50-49 116-50 157-15 40 33 48 95 21 136-30 46-91 57-109 104-16 41 5 83-29 117-40 41-111 18-133-27-22-45 3-91-22-126-31-42-82-54-74-103 8-45 77-48 110-86 18-20 31-36 79 0z" fill="url(#volcano)" stroke="#533c49" stroke-width="6"/>
+<!-- roads and rivers -->
+<g fill="none" stroke-linecap="round"><path d="M330 380c130-70 220-4 303 30s147 2 224-56 156-46 242 3" stroke="#8e7d64" stroke-width="16" opacity=".65"/><path d="M323 380c130-70 220-4 303 30s147 2 224-56 156-46 242 3" stroke="#e9dca9" stroke-width="7"/><path d="M530 150c-18 104 56 167 40 259s-99 116-77 213 88 118 56 190" stroke="#5d9ba1" stroke-width="17" opacity=".6"/><path d="M530 150c-18 104 56 167 40 259s-99 116-77 213 88 118 56 190" stroke="#b7e0d3" stroke-width="7"/></g>
+<!-- mountain chains -->
+<g fill="#6c8175" opacity=".75"><path d="m360 230 38-92 42 92zM430 274l42-110 48 110zM690 300l42-104 44 104zM770 365l49-121 48 121zM962 620l42-111 47 111zM1050 686l44-126 51 126z"/></g>
+<!-- region labels -->
+<g fill="#315761" font-family="sans-serif" font-size="23" font-weight="800" letter-spacing="2"><text x="298" y="190">MONTAÑAS</text><text x="510" y="390">PRADERA CENTRAL</text><text x="922" y="320">DESIERTO</text><text x="895" y="660">VOLCÁN</text><text x="112" y="310" font-size="15">SANTUARIO I</text><text x="1193" y="229" font-size="15">SANTUARIO II</text><text x="1148" y="830" font-size="15">SANTUARIO III</text></g>
+<g fill="#f4e9c5" stroke="#315761" stroke-width="3"><circle cx="430" cy="375" r="8"/><circle cx="620" cy="340" r="8"/><circle cx="832" cy="421" r="8"/><circle cx="987" cy="374" r="8"/></g>
 </svg>
