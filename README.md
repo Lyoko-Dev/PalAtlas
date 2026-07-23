@@ -42,6 +42,8 @@ La cuenta local requiere una contraseña de al menos 8 caracteres. La base SQLit
 
 La configuración de producción está en `deploy/`:
 
+- `deploy/Dockerfile` y `deploy/docker-compose.yml`: contenedor Node 24 para el servidor.
+
 - `deploy/nginx/palatlas.lyokodev.com`: archivos estáticos y proxy `/api` hacia Node.
 - `deploy/systemd/palatlas.service`: servicio Node con reinicio automático.
 - `docs/DEPLOYMENT.md`: pasos de instalación, actualización y comprobación.

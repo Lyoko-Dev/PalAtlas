@@ -1,0 +1,14 @@
+services:
+  palatlas:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: palatlas
+    network_mode: host
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      HOST: 127.0.0.1
+      PORT: "4173"
+    volumes:
+      - ./data:/app/data
